@@ -1,0 +1,3736 @@
+[
+  {
+    "id": "med-001",
+    "brandNames": [
+      "Dolo 650",
+      "Calpol 650",
+      "Crocin 650",
+      "Pacimol 650",
+      "P-650"
+    ],
+    "genericMolecule": "Paracetamol",
+    "strength": "650 mg",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 34,
+    "janAushadhi": {
+      "name": "Paracetamol Tablets IP 650 mg",
+      "drugCode": "PMBJP00021",
+      "packSize": "15 Tablets",
+      "price": 8.5
+    },
+    "category": "Fever & Pain Relief",
+    "commonUses": "Fever, headache, body aches, joint pain",
+    "notes": "Exact bioequivalent molecule and strength.",
+    "davaIndia": {
+      "name": "Dava India Paracetamol Tablet",
+      "productCode": "DI-TAB-001",
+      "packSize": "15 Tablets",
+      "price": 10.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 23.5,
+      "savingsPercent": 69
+    }
+  },
+  {
+    "id": "med-002",
+    "brandNames": [
+      "Crocin 500",
+      "Calpol 500",
+      "Dolo 500",
+      "Metacin 500"
+    ],
+    "genericMolecule": "Paracetamol",
+    "strength": "500 mg",
+    "dosageForm": "Tablet",
+    "packSize": "10 Tablets",
+    "brandedMrp": 18,
+    "janAushadhi": {
+      "name": "Paracetamol Tablets IP 500 mg",
+      "drugCode": "PMBJP00020",
+      "packSize": "10 Tablets",
+      "price": 4.5
+    },
+    "category": "Fever & Pain Relief",
+    "commonUses": "Mild fever and pain",
+    "notes": "Standard antipyretic.",
+    "davaIndia": {
+      "name": "Dava India Paracetamol Tablet",
+      "productCode": "DI-TAB-002",
+      "packSize": "10 Tablets",
+      "price": 6,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 12,
+      "savingsPercent": 67
+    }
+  },
+  {
+    "id": "med-003",
+    "brandNames": [
+      "Combiflam",
+      "Flexon",
+      "Ibugesic Plus"
+    ],
+    "genericMolecule": "Ibuprofen + Paracetamol",
+    "strength": "400 mg + 325 mg",
+    "dosageForm": "Tablet",
+    "packSize": "20 Tablets",
+    "brandedMrp": 52,
+    "janAushadhi": {
+      "name": "Ibuprofen 400 mg + Paracetamol 325 mg Tablets",
+      "drugCode": "PMBJP00015",
+      "packSize": "20 Tablets",
+      "price": 13
+    },
+    "category": "Fever & Pain Relief",
+    "commonUses": "Severe headache, dental pain, musculoskeletal pain",
+    "notes": "NSAID and analgesic dual combination.",
+    "davaIndia": {
+      "name": "Dava India Ibuprofen + Paracetamol Tablet",
+      "productCode": "DI-TAB-003",
+      "packSize": "20 Tablets",
+      "price": 16.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 35.5,
+      "savingsPercent": 68
+    }
+  },
+  {
+    "id": "med-004",
+    "brandNames": [
+      "Zerodol SP",
+      "Hifenac SP",
+      "Dolokind SP",
+      "Aceclo-SP"
+    ],
+    "genericMolecule": "Aceclofenac + Paracetamol + Serratiopeptidase",
+    "strength": "100 mg + 325 mg + 15 mg",
+    "dosageForm": "Tablet",
+    "packSize": "10 Tablets",
+    "brandedMrp": 125,
+    "janAushadhi": {
+      "name": "Aceclofenac 100 mg + Paracetamol 325 mg + Serratiopeptidase 15 mg Tablets",
+      "drugCode": "PMBJP00003",
+      "packSize": "10 Tablets",
+      "price": 24
+    },
+    "category": "Pain & Swelling (Anti-inflammatory)",
+    "commonUses": "Post-surgery swelling, dental extraction pain, sports injuries",
+    "notes": "Triple action analgesic and anti-inflammatory enzyme.",
+    "davaIndia": {
+      "name": "Dava India Aceclofenac + Paracetamol + Serratiopeptidase Tablet",
+      "productCode": "DI-TAB-004",
+      "packSize": "10 Tablets",
+      "price": 29,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 96,
+      "savingsPercent": 77
+    }
+  },
+  {
+    "id": "med-005",
+    "brandNames": [
+      "Zerodol P",
+      "Hifenac P",
+      "Dolowin Plus"
+    ],
+    "genericMolecule": "Aceclofenac + Paracetamol",
+    "strength": "100 mg + 325 mg",
+    "dosageForm": "Tablet",
+    "packSize": "10 Tablets",
+    "brandedMrp": 72,
+    "janAushadhi": {
+      "name": "Aceclofenac 100 mg + Paracetamol 325 mg Tablets",
+      "drugCode": "PMBJP00002",
+      "packSize": "10 Tablets",
+      "price": 15
+    },
+    "category": "Fever & Pain Relief",
+    "commonUses": "Back pain, joint pain, muscle strain",
+    "notes": "Fast-acting pain relief formulation.",
+    "davaIndia": {
+      "name": "Dava India Aceclofenac + Paracetamol Tablet",
+      "productCode": "DI-TAB-005",
+      "packSize": "10 Tablets",
+      "price": 19,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 53,
+      "savingsPercent": 74
+    }
+  },
+  {
+    "id": "med-006",
+    "brandNames": [
+      "Voveran 50",
+      "Voltaren 50",
+      "Dicloran 50"
+    ],
+    "genericMolecule": "Diclofenac Sodium",
+    "strength": "50 mg",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 68,
+    "janAushadhi": {
+      "name": "Diclofenac Sodium Gastro-resistant Tablets IP 50 mg",
+      "drugCode": "PMBJP00008",
+      "packSize": "15 Tablets",
+      "price": 8
+    },
+    "category": "Pain & Swelling (Anti-inflammatory)",
+    "commonUses": "Arthritis, tendonitis, gout flare-up",
+    "notes": "Potent NSAID.",
+    "davaIndia": {
+      "name": "Dava India Diclofenac Sodium Tablet",
+      "productCode": "DI-TAB-006",
+      "packSize": "15 Tablets",
+      "price": 10,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 58,
+      "savingsPercent": 85
+    }
+  },
+  {
+    "id": "med-007",
+    "brandNames": [
+      "Meftal Spas",
+      "Cyclopam",
+      "Colimex"
+    ],
+    "genericMolecule": "Mefenamic Acid + Dicyclomine",
+    "strength": "250 mg + 10 mg",
+    "dosageForm": "Tablet",
+    "packSize": "10 Tablets",
+    "brandedMrp": 58,
+    "janAushadhi": {
+      "name": "Dicyclomine HCl 10 mg + Mefenamic Acid 250 mg Tablets",
+      "drugCode": "PMBJP00028",
+      "packSize": "10 Tablets",
+      "price": 11.5
+    },
+    "category": "Abdominal & Menstrual Pain",
+    "commonUses": "Menstrual cramps, spasmodic stomach pain, intestinal colic",
+    "notes": "Antispasmodic + analgesic.",
+    "davaIndia": {
+      "name": "Dava India Mefenamic Acid + Dicyclomine Tablet",
+      "productCode": "DI-TAB-007",
+      "packSize": "10 Tablets",
+      "price": 14.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 43.5,
+      "savingsPercent": 75
+    }
+  },
+  {
+    "id": "med-008",
+    "brandNames": [
+      "Ultracet",
+      "Dolopar T",
+      "Tramazac P"
+    ],
+    "genericMolecule": "Tramadol + Paracetamol",
+    "strength": "37.5 mg + 325 mg",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 215,
+    "janAushadhi": {
+      "name": "Tramadol HCl 37.5 mg + Paracetamol 325 mg Tablets",
+      "drugCode": "PMBJP00035",
+      "packSize": "15 Tablets",
+      "price": 38
+    },
+    "category": "Severe Pain Relief",
+    "commonUses": "Moderate to severe acute pain, post-surgical pain",
+    "notes": "Centrally acting analgesic combination.",
+    "davaIndia": {
+      "name": "Dava India Tramadol + Paracetamol Tablet",
+      "productCode": "DI-TAB-008",
+      "packSize": "15 Tablets",
+      "price": 45.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 169.5,
+      "savingsPercent": 79
+    }
+  },
+  {
+    "id": "med-009",
+    "brandNames": [
+      "Pan 40",
+      "Pantocid 40",
+      "Pantodac 40",
+      "Pantosec 40",
+      "Pantop 40"
+    ],
+    "genericMolecule": "Pantoprazole",
+    "strength": "40 mg",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 165,
+    "janAushadhi": {
+      "name": "Pantoprazole Gastro-resistant Tablets IP 40 mg",
+      "drugCode": "PMBJP00078",
+      "packSize": "15 Tablets",
+      "price": 22.5
+    },
+    "category": "Acid Reflux & GERD",
+    "commonUses": "Acid reflux, GERD, gastric ulcer, acidity burning",
+    "notes": "Proton Pump Inhibitor (PPI).",
+    "davaIndia": {
+      "name": "Dava India Pantoprazole Tablet",
+      "productCode": "DI-TAB-009",
+      "packSize": "15 Tablets",
+      "price": 27,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 138,
+      "savingsPercent": 84
+    }
+  },
+  {
+    "id": "med-010",
+    "brandNames": [
+      "Pan D",
+      "Pantocid DSR",
+      "Pantodac DSR",
+      "Pantop D"
+    ],
+    "genericMolecule": "Pantoprazole + Domperidone",
+    "strength": "40 mg + 30 mg SR",
+    "dosageForm": "Capsule",
+    "packSize": "15 Capsules",
+    "brandedMrp": 240,
+    "janAushadhi": {
+      "name": "Pantoprazole 40 mg + Domperidone 30 mg SR Capsules",
+      "drugCode": "PMBJP00081",
+      "packSize": "15 Capsules",
+      "price": 28
+    },
+    "category": "Acid Reflux & Nausea",
+    "commonUses": "Severe GERD with nausea, morning bloating, gastric fullness",
+    "notes": "Classic hackathon headline match: ₹240 down to ₹28!",
+    "davaIndia": {
+      "name": "Dava India Pantoprazole + Domperidone Capsule",
+      "productCode": "DI-CAP-010",
+      "packSize": "15 Capsules",
+      "price": 33.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 206.5,
+      "savingsPercent": 86
+    }
+  },
+  {
+    "id": "med-011",
+    "brandNames": [
+      "Omez 20",
+      "Ocid 20",
+      "Omecip 20"
+    ],
+    "genericMolecule": "Omeprazole",
+    "strength": "20 mg",
+    "dosageForm": "Capsule",
+    "packSize": "20 Capsules",
+    "brandedMrp": 75,
+    "janAushadhi": {
+      "name": "Omeprazole Gastro-resistant Capsules IP 20 mg",
+      "drugCode": "PMBJP00072",
+      "packSize": "20 Capsules",
+      "price": 14
+    },
+    "category": "Acid Reflux & GERD",
+    "commonUses": "Heartburn, acidity, stomach ulcers",
+    "notes": "First-line proton pump inhibitor.",
+    "davaIndia": {
+      "name": "Dava India Omeprazole Capsule",
+      "productCode": "DI-CAP-011",
+      "packSize": "20 Capsules",
+      "price": 17.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 57.5,
+      "savingsPercent": 77
+    }
+  },
+  {
+    "id": "med-012",
+    "brandNames": [
+      "Razo 20",
+      "Happi 20",
+      "Rabicip 20",
+      "Parit 20"
+    ],
+    "genericMolecule": "Rabeprazole Sodium",
+    "strength": "20 mg",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 198,
+    "janAushadhi": {
+      "name": "Rabeprazole Sodium Gastro-resistant Tablets IP 20 mg",
+      "drugCode": "PMBJP00085",
+      "packSize": "15 Tablets",
+      "price": 24
+    },
+    "category": "Acid Reflux & GERD",
+    "commonUses": "Hyperacidity, gastroesophageal reflux disease, duodenal ulcers",
+    "notes": "Rapid acid suppression PPI.",
+    "davaIndia": {
+      "name": "Dava India Rabeprazole Sodium Tablet",
+      "productCode": "DI-TAB-012",
+      "packSize": "15 Tablets",
+      "price": 29,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 169,
+      "savingsPercent": 85
+    }
+  },
+  {
+    "id": "med-013",
+    "brandNames": [
+      "Razo D",
+      "Happi D",
+      "Rabicip D"
+    ],
+    "genericMolecule": "Rabeprazole + Domperidone",
+    "strength": "20 mg + 30 mg SR",
+    "dosageForm": "Capsule",
+    "packSize": "15 Capsules",
+    "brandedMrp": 260,
+    "janAushadhi": {
+      "name": "Rabeprazole 20 mg + Domperidone 30 mg SR Capsules",
+      "drugCode": "PMBJP00088",
+      "packSize": "15 Capsules",
+      "price": 32
+    },
+    "category": "Acid Reflux & Nausea",
+    "commonUses": "Acid reflux combined with nausea and indigestion",
+    "notes": "Prokinetic and anti-secretory dual therapy.",
+    "davaIndia": {
+      "name": "Dava India Rabeprazole + Domperidone Capsule",
+      "productCode": "DI-CAP-013",
+      "packSize": "15 Capsules",
+      "price": 38.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 221.5,
+      "savingsPercent": 85
+    }
+  },
+  {
+    "id": "med-014",
+    "brandNames": [
+      "Aciloc 150",
+      "Rantac 150",
+      "Zinetac 150"
+    ],
+    "genericMolecule": "Ranitidine",
+    "strength": "150 mg",
+    "dosageForm": "Tablet",
+    "packSize": "30 Tablets",
+    "brandedMrp": 48,
+    "janAushadhi": {
+      "name": "Ranitidine Tablets IP 150 mg",
+      "drugCode": "PMBJP00092",
+      "packSize": "30 Tablets",
+      "price": 11
+    },
+    "category": "Acid Reflux & GERD",
+    "commonUses": "Heartburn, dyspepsia, peptic ulcers",
+    "notes": "H2 receptor antagonist.",
+    "davaIndia": {
+      "name": "Dava India Ranitidine Tablet",
+      "productCode": "DI-TAB-014",
+      "packSize": "30 Tablets",
+      "price": 14,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 34,
+      "savingsPercent": 71
+    }
+  },
+  {
+    "id": "med-015",
+    "brandNames": [
+      "Emeset 4",
+      "Vomikind 4",
+      "Zofran 4"
+    ],
+    "genericMolecule": "Ondansetron",
+    "strength": "4 mg",
+    "dosageForm": "Tablet",
+    "packSize": "10 Tablets",
+    "brandedMrp": 56,
+    "janAushadhi": {
+      "name": "Ondansetron Orally Disintegrating Tablets IP 4 mg",
+      "drugCode": "PMBJP00096",
+      "packSize": "10 Tablets",
+      "price": 7.5
+    },
+    "category": "Anti-emetic (Nausea/Vomiting)",
+    "commonUses": "Nausea, vomiting, post-chemotherapy or gastroenteritis emesis",
+    "notes": "Serotonin 5-HT3 receptor blocker.",
+    "davaIndia": {
+      "name": "Dava India Ondansetron Tablet",
+      "productCode": "DI-TAB-015",
+      "packSize": "10 Tablets",
+      "price": 9.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 46.5,
+      "savingsPercent": 83
+    }
+  },
+  {
+    "id": "med-016",
+    "brandNames": [
+      "Telma 40",
+      "Telmikind 40",
+      "Telvas 40",
+      "Arbitel 40",
+      "Telsartan 40"
+    ],
+    "genericMolecule": "Telmisartan",
+    "strength": "40 mg",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 135,
+    "janAushadhi": {
+      "name": "Telmisartan Tablets IP 40 mg",
+      "drugCode": "PMBJP00110",
+      "packSize": "15 Tablets",
+      "price": 16.5
+    },
+    "category": "Cardiovascular (High Blood Pressure)",
+    "commonUses": "Hypertension, chronic cardiovascular risk reduction",
+    "notes": "Angiotensin II Receptor Blocker (ARB).",
+    "davaIndia": {
+      "name": "Dava India Telmisartan Tablet",
+      "productCode": "DI-TAB-016",
+      "packSize": "15 Tablets",
+      "price": 20,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 115,
+      "savingsPercent": 85
+    }
+  },
+  {
+    "id": "med-017",
+    "brandNames": [
+      "Telma AM",
+      "Telmikind AM",
+      "Telvas AM",
+      "Arbitel AM"
+    ],
+    "genericMolecule": "Telmisartan + Amlodipine",
+    "strength": "40 mg + 5 mg",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 195,
+    "janAushadhi": {
+      "name": "Telmisartan 40 mg + Amlodipine 5 mg Tablets",
+      "drugCode": "PMBJP00114",
+      "packSize": "15 Tablets",
+      "price": 24
+    },
+    "category": "Cardiovascular (High Blood Pressure)",
+    "commonUses": "Uncontrolled high blood pressure, dual therapy",
+    "notes": "ARB + Calcium Channel Blocker combination.",
+    "davaIndia": {
+      "name": "Dava India Telmisartan + Amlodipine Tablet",
+      "productCode": "DI-TAB-017",
+      "packSize": "15 Tablets",
+      "price": 29,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 166,
+      "savingsPercent": 85
+    }
+  },
+  {
+    "id": "med-018",
+    "brandNames": [
+      "Telma H",
+      "Telmikind H",
+      "Telvas H"
+    ],
+    "genericMolecule": "Telmisartan + Hydrochlorothiazide",
+    "strength": "40 mg + 12.5 mg",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 178,
+    "janAushadhi": {
+      "name": "Telmisartan 40 mg + Hydrochlorothiazide 12.5 mg Tablets",
+      "drugCode": "PMBJP00116",
+      "packSize": "15 Tablets",
+      "price": 21
+    },
+    "category": "Cardiovascular (High Blood Pressure)",
+    "commonUses": "Hypertension requiring diuretic synergy",
+    "notes": "ARB + thiazide diuretic.",
+    "davaIndia": {
+      "name": "Dava India Telmisartan + Hydrochlorothiazide Tablet",
+      "productCode": "DI-TAB-018",
+      "packSize": "15 Tablets",
+      "price": 25,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 153,
+      "savingsPercent": 86
+    }
+  },
+  {
+    "id": "med-019",
+    "brandNames": [
+      "Amlong 5",
+      "Stamlo 5",
+      "Norvasc 5",
+      "Amlodac 5"
+    ],
+    "genericMolecule": "Amlodipine Besylate",
+    "strength": "5 mg",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 45,
+    "janAushadhi": {
+      "name": "Amlodipine Tablets IP 5 mg",
+      "drugCode": "PMBJP00105",
+      "packSize": "15 Tablets",
+      "price": 5.5
+    },
+    "category": "Cardiovascular (High Blood Pressure)",
+    "commonUses": "High blood pressure, coronary artery disease, angina",
+    "notes": "Calcium Channel Blocker.",
+    "davaIndia": {
+      "name": "Dava India Amlodipine Besylate Tablet",
+      "productCode": "DI-TAB-019",
+      "packSize": "15 Tablets",
+      "price": 7,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 38,
+      "savingsPercent": 84
+    }
+  },
+  {
+    "id": "med-020",
+    "brandNames": [
+      "Atorva 10",
+      "Lipitor 10",
+      "Storvas 10",
+      "Tonact 10"
+    ],
+    "genericMolecule": "Atorvastatin Calcium",
+    "strength": "10 mg",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 145,
+    "janAushadhi": {
+      "name": "Atorvastatin Tablets IP 10 mg",
+      "drugCode": "PMBJP00125",
+      "packSize": "15 Tablets",
+      "price": 18
+    },
+    "category": "Cholesterol & Heart Health",
+    "commonUses": "High LDL cholesterol, plaque stabilization, heart attack prevention",
+    "notes": "HMG-CoA reductase inhibitor (Statin).",
+    "davaIndia": {
+      "name": "Dava India Atorvastatin Calcium Tablet",
+      "productCode": "DI-TAB-020",
+      "packSize": "15 Tablets",
+      "price": 21.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 123.5,
+      "savingsPercent": 85
+    }
+  },
+  {
+    "id": "med-021",
+    "brandNames": [
+      "Atorva 20",
+      "Lipitor 20",
+      "Storvas 20",
+      "Tonact 20"
+    ],
+    "genericMolecule": "Atorvastatin Calcium",
+    "strength": "20 mg",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 240,
+    "janAushadhi": {
+      "name": "Atorvastatin Tablets IP 20 mg",
+      "drugCode": "PMBJP00126",
+      "packSize": "15 Tablets",
+      "price": 28
+    },
+    "category": "Cholesterol & Heart Health",
+    "commonUses": "Elevated lipids, high cardiovascular event risk",
+    "notes": "Direct match to headline ₹240 -> ₹28!",
+    "davaIndia": {
+      "name": "Dava India Atorvastatin Calcium Tablet",
+      "productCode": "DI-TAB-021",
+      "packSize": "15 Tablets",
+      "price": 33.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 206.5,
+      "savingsPercent": 86
+    }
+  },
+  {
+    "id": "med-022",
+    "brandNames": [
+      "Rosuvas 10",
+      "Rozucor 10",
+      "Crestor 10",
+      "Rosave 10"
+    ],
+    "genericMolecule": "Rosuvastatin Calcium",
+    "strength": "10 mg",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 210,
+    "janAushadhi": {
+      "name": "Rosuvastatin Tablets IP 10 mg",
+      "drugCode": "PMBJP00130",
+      "packSize": "15 Tablets",
+      "price": 26
+    },
+    "category": "Cholesterol & Heart Health",
+    "commonUses": "Hypercholesterolemia, stroke and heart disease prevention",
+    "notes": "High potency statin.",
+    "davaIndia": {
+      "name": "Dava India Rosuvastatin Calcium Tablet",
+      "productCode": "DI-TAB-022",
+      "packSize": "15 Tablets",
+      "price": 31,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 179,
+      "savingsPercent": 85
+    }
+  },
+  {
+    "id": "med-023",
+    "brandNames": [
+      "Rosuvas 20",
+      "Rozucor 20",
+      "Crestor 20"
+    ],
+    "genericMolecule": "Rosuvastatin Calcium",
+    "strength": "20 mg",
+    "dosageForm": "Tablet",
+    "packSize": "10 Tablets",
+    "brandedMrp": 280,
+    "janAushadhi": {
+      "name": "Rosuvastatin Tablets IP 20 mg",
+      "drugCode": "PMBJP00131",
+      "packSize": "10 Tablets",
+      "price": 35
+    },
+    "category": "Cholesterol & Heart Health",
+    "commonUses": "Severe dyslipidemia, post-angioplasty lipid management",
+    "notes": "Over 87% savings.",
+    "davaIndia": {
+      "name": "Dava India Rosuvastatin Calcium Tablet",
+      "productCode": "DI-TAB-023",
+      "packSize": "10 Tablets",
+      "price": 42,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 238,
+      "savingsPercent": 85
+    }
+  },
+  {
+    "id": "med-024",
+    "brandNames": [
+      "Ecosprin 75",
+      "Disprin 75",
+      "Loprin 75"
+    ],
+    "genericMolecule": "Aspirin (Acetylsalicylic Acid)",
+    "strength": "75 mg",
+    "dosageForm": "Tablet",
+    "packSize": "14 Tablets",
+    "brandedMrp": 12,
+    "janAushadhi": {
+      "name": "Aspirin Gastro-resistant Tablets IP 75 mg",
+      "drugCode": "PMBJP00140",
+      "packSize": "14 Tablets",
+      "price": 3.5
+    },
+    "category": "Blood Thinner & Heart Health",
+    "commonUses": "Prevention of blood clots, heart attacks, and ischemic strokes",
+    "notes": "Anti-platelet agent.",
+    "davaIndia": {
+      "name": "Dava India Aspirin (Acetylsalicylic Acid) Tablet",
+      "productCode": "DI-TAB-024",
+      "packSize": "14 Tablets",
+      "price": 5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 7,
+      "savingsPercent": 58
+    }
+  },
+  {
+    "id": "med-025",
+    "brandNames": [
+      "Clopilet 75",
+      "Plavix 75",
+      "Deplatt 75",
+      "Ceruvin 75"
+    ],
+    "genericMolecule": "Clopidogrel Bisulfate",
+    "strength": "75 mg",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 135,
+    "janAushadhi": {
+      "name": "Clopidogrel Tablets IP 75 mg",
+      "drugCode": "PMBJP00145",
+      "packSize": "15 Tablets",
+      "price": 21
+    },
+    "category": "Blood Thinner & Heart Health",
+    "commonUses": "Post-stent placement, secondary prevention of stroke",
+    "notes": "Platelet P2Y12 inhibitor.",
+    "davaIndia": {
+      "name": "Dava India Clopidogrel Bisulfate Tablet",
+      "productCode": "DI-TAB-025",
+      "packSize": "15 Tablets",
+      "price": 25,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 110,
+      "savingsPercent": 81
+    }
+  },
+  {
+    "id": "med-026",
+    "brandNames": [
+      "Metolar 25",
+      "Betaloc 25",
+      "Seloken XL 25"
+    ],
+    "genericMolecule": "Metoprolol Succinate",
+    "strength": "25 mg ER",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 95,
+    "janAushadhi": {
+      "name": "Metoprolol Succinate Prolonged Release Tablets IP 25 mg",
+      "drugCode": "PMBJP00150",
+      "packSize": "15 Tablets",
+      "price": 15
+    },
+    "category": "Cardiovascular (Heart Rate & BP)",
+    "commonUses": "Tachycardia, angina, heart failure, high blood pressure",
+    "notes": "Cardioselective beta-1 blocker.",
+    "davaIndia": {
+      "name": "Dava India Metoprolol Succinate Tablet",
+      "productCode": "DI-TAB-026",
+      "packSize": "15 Tablets",
+      "price": 19,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 76,
+      "savingsPercent": 80
+    }
+  },
+  {
+    "id": "med-027",
+    "brandNames": [
+      "Metolar 50",
+      "Betaloc 50",
+      "Seloken XL 50"
+    ],
+    "genericMolecule": "Metoprolol Succinate",
+    "strength": "50 mg ER",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 145,
+    "janAushadhi": {
+      "name": "Metoprolol Succinate Prolonged Release Tablets IP 50 mg",
+      "drugCode": "PMBJP00151",
+      "packSize": "15 Tablets",
+      "price": 22
+    },
+    "category": "Cardiovascular (Heart Rate & BP)",
+    "commonUses": "Hypertension, chronic stable angina",
+    "notes": "Extended release beta blocker.",
+    "davaIndia": {
+      "name": "Dava India Metoprolol Succinate Tablet",
+      "productCode": "DI-TAB-027",
+      "packSize": "15 Tablets",
+      "price": 26.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 118.5,
+      "savingsPercent": 82
+    }
+  },
+  {
+    "id": "med-028",
+    "brandNames": [
+      "Glycomet 500",
+      "Glyciphage 500",
+      "Obimet 500",
+      "Metsmall 500"
+    ],
+    "genericMolecule": "Metformin Hydrochloride",
+    "strength": "500 mg",
+    "dosageForm": "Tablet",
+    "packSize": "20 Tablets",
+    "brandedMrp": 48,
+    "janAushadhi": {
+      "name": "Metformin Hydrochloride Tablets IP 500 mg",
+      "drugCode": "PMBJP00160",
+      "packSize": "20 Tablets",
+      "price": 7.5
+    },
+    "category": "Diabetes Care",
+    "commonUses": "Type 2 diabetes mellitus, insulin resistance, PCOS",
+    "notes": "Gold standard biguanide oral hypoglycemic.",
+    "davaIndia": {
+      "name": "Dava India Metformin Hydrochloride Tablet",
+      "productCode": "DI-TAB-028",
+      "packSize": "20 Tablets",
+      "price": 9.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 38.5,
+      "savingsPercent": 80
+    }
+  },
+  {
+    "id": "med-029",
+    "brandNames": [
+      "Glycomet 1000",
+      "Glyciphage 1000",
+      "Obimet 1000"
+    ],
+    "genericMolecule": "Metformin Hydrochloride",
+    "strength": "1000 mg",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 85,
+    "janAushadhi": {
+      "name": "Metformin Hydrochloride Prolonged-Release Tablets IP 1000 mg",
+      "drugCode": "PMBJP00162",
+      "packSize": "15 Tablets",
+      "price": 12
+    },
+    "category": "Diabetes Care",
+    "commonUses": "Type 2 diabetes blood glucose management",
+    "notes": "Sustained release metformin.",
+    "davaIndia": {
+      "name": "Dava India Metformin Hydrochloride Tablet",
+      "productCode": "DI-TAB-029",
+      "packSize": "15 Tablets",
+      "price": 15,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 70,
+      "savingsPercent": 82
+    }
+  },
+  {
+    "id": "med-030",
+    "brandNames": [
+      "Glycomet GP 1",
+      "Amaryl M 1",
+      "Zoryl M 1"
+    ],
+    "genericMolecule": "Glimepiride + Metformin",
+    "strength": "1 mg + 500 mg SR",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 135,
+    "janAushadhi": {
+      "name": "Glimepiride 1 mg + Metformin 500 mg SR Tablets",
+      "drugCode": "PMBJP00168",
+      "packSize": "15 Tablets",
+      "price": 18
+    },
+    "category": "Diabetes Care",
+    "commonUses": "Dual control of fasting and postprandial blood sugar",
+    "notes": "Sulfonylurea + Biguanide synergistic combo.",
+    "davaIndia": {
+      "name": "Dava India Glimepiride + Metformin Tablet",
+      "productCode": "DI-TAB-030",
+      "packSize": "15 Tablets",
+      "price": 21.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 113.5,
+      "savingsPercent": 84
+    }
+  },
+  {
+    "id": "med-031",
+    "brandNames": [
+      "Glycomet GP 2",
+      "Amaryl M 2",
+      "Zoryl M 2"
+    ],
+    "genericMolecule": "Glimepiride + Metformin",
+    "strength": "2 mg + 500 mg SR",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 165,
+    "janAushadhi": {
+      "name": "Glimepiride 2 mg + Metformin 500 mg SR Tablets",
+      "drugCode": "PMBJP00169",
+      "packSize": "15 Tablets",
+      "price": 21
+    },
+    "category": "Diabetes Care",
+    "commonUses": "Type 2 diabetes management requiring strong glycemic control",
+    "notes": "Higher strength glimepiride combo.",
+    "davaIndia": {
+      "name": "Dava India Glimepiride + Metformin Tablet",
+      "productCode": "DI-TAB-031",
+      "packSize": "15 Tablets",
+      "price": 25,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 140,
+      "savingsPercent": 85
+    }
+  },
+  {
+    "id": "med-032",
+    "brandNames": [
+      "Voglinorm 0.2",
+      "Volibo 0.2",
+      "Vogli 0.2"
+    ],
+    "genericMolecule": "Voglibose",
+    "strength": "0.2 mg",
+    "dosageForm": "Tablet",
+    "packSize": "10 Tablets",
+    "brandedMrp": 78,
+    "janAushadhi": {
+      "name": "Voglibose Tablets IP 0.2 mg",
+      "drugCode": "PMBJP00175",
+      "packSize": "10 Tablets",
+      "price": 11
+    },
+    "category": "Diabetes Care",
+    "commonUses": "Controls post-meal sugar spikes",
+    "notes": "Alpha-glucosidase inhibitor.",
+    "davaIndia": {
+      "name": "Dava India Voglibose Tablet",
+      "productCode": "DI-TAB-032",
+      "packSize": "10 Tablets",
+      "price": 14,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 64,
+      "savingsPercent": 82
+    }
+  },
+  {
+    "id": "med-033",
+    "brandNames": [
+      "Ziten 20",
+      "Tenglyn 20",
+      "Dynaglipt 20"
+    ],
+    "genericMolecule": "Teneligliptin",
+    "strength": "20 mg",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 145,
+    "janAushadhi": {
+      "name": "Teneligliptin Hydrobromide Hydrate Tablets IP 20 mg",
+      "drugCode": "PMBJP00180",
+      "packSize": "15 Tablets",
+      "price": 22.5
+    },
+    "category": "Diabetes Care",
+    "commonUses": "DPP-4 inhibitor for type 2 diabetes",
+    "notes": "Safe in mild to moderate renal impairment.",
+    "davaIndia": {
+      "name": "Dava India Teneligliptin Tablet",
+      "productCode": "DI-TAB-033",
+      "packSize": "15 Tablets",
+      "price": 27,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 118,
+      "savingsPercent": 81
+    }
+  },
+  {
+    "id": "med-034",
+    "brandNames": [
+      "Forxiga 10",
+      "Dapaone 10",
+      "Oxra 10",
+      "Dapaglyn 10"
+    ],
+    "genericMolecule": "Dapagliflozin",
+    "strength": "10 mg",
+    "dosageForm": "Tablet",
+    "packSize": "14 Tablets",
+    "brandedMrp": 350,
+    "janAushadhi": {
+      "name": "Dapagliflozin Tablets IP 10 mg",
+      "drugCode": "PMBJP00185",
+      "packSize": "14 Tablets",
+      "price": 45
+    },
+    "category": "Diabetes & Heart Failure",
+    "commonUses": "Type 2 diabetes, heart failure, and chronic kidney disease",
+    "notes": "SGLT2 inhibitor saving over ₹300 per pack.",
+    "davaIndia": {
+      "name": "Dava India Dapagliflozin Tablet",
+      "productCode": "DI-TAB-034",
+      "packSize": "14 Tablets",
+      "price": 53,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 297,
+      "savingsPercent": 85
+    }
+  },
+  {
+    "id": "med-035",
+    "brandNames": [
+      "Thyronorm 50",
+      "Eltroxin 50",
+      "Thyrox 50"
+    ],
+    "genericMolecule": "Levothyroxine Sodium",
+    "strength": "50 mcg",
+    "dosageForm": "Tablet",
+    "packSize": "100 Tablets",
+    "brandedMrp": 185,
+    "janAushadhi": {
+      "name": "Levothyroxine Sodium Tablets IP 50 mcg",
+      "drugCode": "PMBJP00190",
+      "packSize": "100 Tablets",
+      "price": 45
+    },
+    "category": "Thyroid Care",
+    "commonUses": "Hypothyroidism, goiter, thyroid hormone replacement",
+    "notes": "Year-long life essential medicine with 75% savings.",
+    "davaIndia": {
+      "name": "Dava India Levothyroxine Sodium Tablet",
+      "productCode": "DI-TAB-035",
+      "packSize": "100 Tablets",
+      "price": 54,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 131,
+      "savingsPercent": 71
+    }
+  },
+  {
+    "id": "med-036",
+    "brandNames": [
+      "Thyronorm 100",
+      "Eltroxin 100",
+      "Thyrox 100"
+    ],
+    "genericMolecule": "Levothyroxine Sodium",
+    "strength": "100 mcg",
+    "dosageForm": "Tablet",
+    "packSize": "100 Tablets",
+    "brandedMrp": 215,
+    "janAushadhi": {
+      "name": "Levothyroxine Sodium Tablets IP 100 mcg",
+      "drugCode": "PMBJP00191",
+      "packSize": "100 Tablets",
+      "price": 52
+    },
+    "category": "Thyroid Care",
+    "commonUses": "Higher maintenance dose for underactive thyroid",
+    "notes": "Bioequivalent hormone substitution.",
+    "davaIndia": {
+      "name": "Dava India Levothyroxine Sodium Tablet",
+      "productCode": "DI-TAB-036",
+      "packSize": "100 Tablets",
+      "price": 62.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 152.5,
+      "savingsPercent": 71
+    }
+  },
+  {
+    "id": "med-037",
+    "brandNames": [
+      "Augmentin 625 Duo",
+      "Clavam 625",
+      "Moxikind CV 625",
+      "Amoxyclav 625",
+      "Polyclav 625"
+    ],
+    "genericMolecule": "Amoxicillin and Potassium Clavulanate",
+    "strength": "500 mg + 125 mg",
+    "dosageForm": "Tablet",
+    "packSize": "10 Tablets",
+    "brandedMrp": 228,
+    "janAushadhi": {
+      "name": "Amoxicillin and Potassium Clavulanate Tablets IP 625 mg",
+      "drugCode": "PMBJP00210",
+      "packSize": "10 Tablets",
+      "price": 58
+    },
+    "category": "Antibiotics (Bacterial Infection)",
+    "commonUses": "Respiratory tract infections, ear-nose-throat infections, skin infections",
+    "notes": "Broad spectrum antibiotic with beta-lactamase inhibitor.",
+    "davaIndia": {
+      "name": "Dava India Amoxicillin and Potassium Clavulanate Tablet",
+      "productCode": "DI-TAB-037",
+      "packSize": "10 Tablets",
+      "price": 69.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 158.5,
+      "savingsPercent": 70
+    }
+  },
+  {
+    "id": "med-038",
+    "brandNames": [
+      "Azithral 500",
+      "Azee 500",
+      "Zithrox 500",
+      "Zady 500"
+    ],
+    "genericMolecule": "Azithromycin",
+    "strength": "500 mg",
+    "dosageForm": "Tablet",
+    "packSize": "5 Tablets",
+    "brandedMrp": 132,
+    "janAushadhi": {
+      "name": "Azithromycin Tablets IP 500 mg",
+      "drugCode": "PMBJP00215",
+      "packSize": "5 Tablets",
+      "price": 24.5
+    },
+    "category": "Antibiotics (Bacterial Infection)",
+    "commonUses": "Throat infection, tonsillitis, chest infections, sinusitis",
+    "notes": "Macrolide antibiotic 3 to 5 day course.",
+    "davaIndia": {
+      "name": "Dava India Azithromycin Tablet",
+      "productCode": "DI-TAB-038",
+      "packSize": "5 Tablets",
+      "price": 29.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 102.5,
+      "savingsPercent": 78
+    }
+  },
+  {
+    "id": "med-039",
+    "brandNames": [
+      "Zifi 200",
+      "Taxim O 200",
+      "Mahacef 200",
+      "Cefolac 200"
+    ],
+    "genericMolecule": "Cefixime",
+    "strength": "200 mg",
+    "dosageForm": "Tablet",
+    "packSize": "10 Tablets",
+    "brandedMrp": 185,
+    "janAushadhi": {
+      "name": "Cefixime Tablets IP 200 mg",
+      "drugCode": "PMBJP00220",
+      "packSize": "10 Tablets",
+      "price": 38
+    },
+    "category": "Antibiotics (Bacterial Infection)",
+    "commonUses": "Typhoid fever, urinary tract infection, bronchitis",
+    "notes": "3rd generation cephalosporin.",
+    "davaIndia": {
+      "name": "Dava India Cefixime Tablet",
+      "productCode": "DI-TAB-039",
+      "packSize": "10 Tablets",
+      "price": 45.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 139.5,
+      "savingsPercent": 75
+    }
+  },
+  {
+    "id": "med-040",
+    "brandNames": [
+      "Cifran 500",
+      "Ciplox 500",
+      "Ciprobid 500"
+    ],
+    "genericMolecule": "Ciprofloxacin",
+    "strength": "500 mg",
+    "dosageForm": "Tablet",
+    "packSize": "10 Tablets",
+    "brandedMrp": 52,
+    "janAushadhi": {
+      "name": "Ciprofloxacin Tablets IP 500 mg",
+      "drugCode": "PMBJP00225",
+      "packSize": "10 Tablets",
+      "price": 12
+    },
+    "category": "Antibiotics (Bacterial Infection)",
+    "commonUses": "Severe bacterial diarrhea, bone and joint infections, UTIs",
+    "notes": "Fluoroquinolone antibiotic.",
+    "davaIndia": {
+      "name": "Dava India Ciprofloxacin Tablet",
+      "productCode": "DI-TAB-040",
+      "packSize": "10 Tablets",
+      "price": 15,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 37,
+      "savingsPercent": 71
+    }
+  },
+  {
+    "id": "med-041",
+    "brandNames": [
+      "Loxof 500",
+      "Levomac 500",
+      "Glevo 500"
+    ],
+    "genericMolecule": "Levofloxacin",
+    "strength": "500 mg",
+    "dosageForm": "Tablet",
+    "packSize": "10 Tablets",
+    "brandedMrp": 110,
+    "janAushadhi": {
+      "name": "Levofloxacin Tablets IP 500 mg",
+      "drugCode": "PMBJP00230",
+      "packSize": "10 Tablets",
+      "price": 19.5
+    },
+    "category": "Antibiotics (Bacterial Infection)",
+    "commonUses": "Community-acquired pneumonia, acute pyelonephritis",
+    "notes": "Broad spectrum respiratory quinolone.",
+    "davaIndia": {
+      "name": "Dava India Levofloxacin Tablet",
+      "productCode": "DI-TAB-041",
+      "packSize": "10 Tablets",
+      "price": 23.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 86.5,
+      "savingsPercent": 79
+    }
+  },
+  {
+    "id": "med-042",
+    "brandNames": [
+      "O2",
+      "Zenflox OZ",
+      "Ornof",
+      "Oflox OZ"
+    ],
+    "genericMolecule": "Ofloxacin + Ornidazole",
+    "strength": "200 mg + 500 mg",
+    "dosageForm": "Tablet",
+    "packSize": "10 Tablets",
+    "brandedMrp": 145,
+    "janAushadhi": {
+      "name": "Ofloxacin 200 mg + Ornidazole 500 mg Tablets",
+      "drugCode": "PMBJP00235",
+      "packSize": "10 Tablets",
+      "price": 24
+    },
+    "category": "Gastrointestinal Anti-infective",
+    "commonUses": "Amoebic dysentery, mixed diarrhea, pelvic infections",
+    "notes": "Dual antibacterial and antiprotozoal.",
+    "davaIndia": {
+      "name": "Dava India Ofloxacin + Ornidazole Tablet",
+      "productCode": "DI-TAB-042",
+      "packSize": "10 Tablets",
+      "price": 29,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 116,
+      "savingsPercent": 80
+    }
+  },
+  {
+    "id": "med-043",
+    "brandNames": [
+      "Flagyl 400",
+      "Metrogyl 400",
+      "Aristogyl 400"
+    ],
+    "genericMolecule": "Metronidazole",
+    "strength": "400 mg",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 28,
+    "janAushadhi": {
+      "name": "Metronidazole Tablets IP 400 mg",
+      "drugCode": "PMBJP00240",
+      "packSize": "15 Tablets",
+      "price": 6
+    },
+    "category": "Antiparasitic & Antibacterial",
+    "commonUses": "Dental infections, amoebiasis, giardiasis",
+    "notes": "Anaerobic bacterial and protozoal infection therapy.",
+    "davaIndia": {
+      "name": "Dava India Metronidazole Tablet",
+      "productCode": "DI-TAB-043",
+      "packSize": "15 Tablets",
+      "price": 7.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 20.5,
+      "savingsPercent": 73
+    }
+  },
+  {
+    "id": "med-044",
+    "brandNames": [
+      "Doxicip 100",
+      "Microdox-LBX",
+      "Doxy-1 100"
+    ],
+    "genericMolecule": "Doxycycline",
+    "strength": "100 mg",
+    "dosageForm": "Capsule",
+    "packSize": "10 Capsules",
+    "brandedMrp": 65,
+    "janAushadhi": {
+      "name": "Doxycycline Capsules IP 100 mg",
+      "drugCode": "PMBJP00245",
+      "packSize": "10 Capsules",
+      "price": 10.5
+    },
+    "category": "Antibiotics (Bacterial Infection)",
+    "commonUses": "Acne, rickettsial infections, cholera, chlamydia",
+    "notes": "Tetracycline class.",
+    "davaIndia": {
+      "name": "Dava India Doxycycline Capsule",
+      "productCode": "DI-CAP-044",
+      "packSize": "10 Capsules",
+      "price": 13,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 52,
+      "savingsPercent": 80
+    }
+  },
+  {
+    "id": "med-045",
+    "brandNames": [
+      "Montair LC",
+      "Telekast L",
+      "Montek LC",
+      "Monticope",
+      "Romilast L"
+    ],
+    "genericMolecule": "Montelukast Sodium + Levocetirizine",
+    "strength": "10 mg + 5 mg",
+    "dosageForm": "Tablet",
+    "packSize": "10 Tablets",
+    "brandedMrp": 185,
+    "janAushadhi": {
+      "name": "Montelukast Sodium 10 mg + Levocetirizine HCl 5 mg Tablets",
+      "drugCode": "PMBJP00260",
+      "packSize": "10 Tablets",
+      "price": 26
+    },
+    "category": "Allergy & Asthma",
+    "commonUses": "Allergic rhinitis, persistent sneezing, allergic asthma",
+    "notes": "Dual leukotriene receptor antagonist and antihistamine.",
+    "davaIndia": {
+      "name": "Dava India Montelukast Sodium + Levocetirizine Tablet",
+      "productCode": "DI-TAB-045",
+      "packSize": "10 Tablets",
+      "price": 31,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 154,
+      "savingsPercent": 83
+    }
+  },
+  {
+    "id": "med-046",
+    "brandNames": [
+      "Cetcip 10",
+      "Alerid 10",
+      "Zyrtec 10",
+      "Okacet 10"
+    ],
+    "genericMolecule": "Cetirizine Hydrochloride",
+    "strength": "10 mg",
+    "dosageForm": "Tablet",
+    "packSize": "10 Tablets",
+    "brandedMrp": 24,
+    "janAushadhi": {
+      "name": "Cetirizine Hydrochloride Tablets IP 10 mg",
+      "drugCode": "PMBJP00265",
+      "packSize": "10 Tablets",
+      "price": 4.5
+    },
+    "category": "Allergy & Antihistamine",
+    "commonUses": "Runny nose, hives, itching, seasonal pollen allergy",
+    "notes": "Second generation non-sedating antihistamine.",
+    "davaIndia": {
+      "name": "Dava India Cetirizine Hydrochloride Tablet",
+      "productCode": "DI-TAB-046",
+      "packSize": "10 Tablets",
+      "price": 6,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 18,
+      "savingsPercent": 75
+    }
+  },
+  {
+    "id": "med-047",
+    "brandNames": [
+      "Levocet 5",
+      "Vozet 5",
+      "Xyzal 5",
+      "1-AL 5"
+    ],
+    "genericMolecule": "Levocetirizine",
+    "strength": "5 mg",
+    "dosageForm": "Tablet",
+    "packSize": "10 Tablets",
+    "brandedMrp": 58,
+    "janAushadhi": {
+      "name": "Levocetirizine Dihydrochloride Tablets IP 5 mg",
+      "drugCode": "PMBJP00268",
+      "packSize": "10 Tablets",
+      "price": 7.5
+    },
+    "category": "Allergy & Antihistamine",
+    "commonUses": "Chronic urticaria, seasonal allergies",
+    "notes": "Active enantiomer of cetirizine.",
+    "davaIndia": {
+      "name": "Dava India Levocetirizine Tablet",
+      "productCode": "DI-TAB-047",
+      "packSize": "10 Tablets",
+      "price": 9.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 48.5,
+      "savingsPercent": 84
+    }
+  },
+  {
+    "id": "med-048",
+    "brandNames": [
+      "Allegra 120",
+      "Fexova 120",
+      "Histafree 120"
+    ],
+    "genericMolecule": "Fexofenadine Hydrochloride",
+    "strength": "120 mg",
+    "dosageForm": "Tablet",
+    "packSize": "10 Tablets",
+    "brandedMrp": 195,
+    "janAushadhi": {
+      "name": "Fexofenadine Hydrochloride Tablets IP 120 mg",
+      "drugCode": "PMBJP00272",
+      "packSize": "10 Tablets",
+      "price": 28
+    },
+    "category": "Allergy & Antihistamine",
+    "commonUses": "Daytime allergies with zero drowsiness, hay fever",
+    "notes": "Non-sedating antihistamine saving over 85%.",
+    "davaIndia": {
+      "name": "Dava India Fexofenadine Hydrochloride Tablet",
+      "productCode": "DI-TAB-048",
+      "packSize": "10 Tablets",
+      "price": 33.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 161.5,
+      "savingsPercent": 83
+    }
+  },
+  {
+    "id": "med-049",
+    "brandNames": [
+      "Allegra 180",
+      "Fexova 180",
+      "Histafree 180"
+    ],
+    "genericMolecule": "Fexofenadine Hydrochloride",
+    "strength": "180 mg",
+    "dosageForm": "Tablet",
+    "packSize": "10 Tablets",
+    "brandedMrp": 265,
+    "janAushadhi": {
+      "name": "Fexofenadine Hydrochloride Tablets IP 180 mg",
+      "drugCode": "PMBJP00273",
+      "packSize": "10 Tablets",
+      "price": 36
+    },
+    "category": "Allergy & Skin Urticaria",
+    "commonUses": "Severe skin hives, chronic idiopathic urticaria",
+    "notes": "Maximum strength fexofenadine.",
+    "davaIndia": {
+      "name": "Dava India Fexofenadine Hydrochloride Tablet",
+      "productCode": "DI-TAB-049",
+      "packSize": "10 Tablets",
+      "price": 43,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 222,
+      "savingsPercent": 84
+    }
+  },
+  {
+    "id": "med-050",
+    "brandNames": [
+      "Ascoril D Plus",
+      "Benadryl DR",
+      "TusQ-DX"
+    ],
+    "genericMolecule": "Dextromethorphan + Chlorpheniramine + Phenylephrine",
+    "strength": "10 mg + 2 mg + 5 mg / 5ml",
+    "dosageForm": "Syrup (100 ml)",
+    "packSize": "100 ml Bottle",
+    "brandedMrp": 135,
+    "janAushadhi": {
+      "name": "Dextromethorphan HBr + Chlorpheniramine + Phenylephrine Syrup",
+      "drugCode": "PMBJP00280",
+      "packSize": "100 ml Bottle",
+      "price": 25
+    },
+    "category": "Cough & Cold",
+    "commonUses": "Dry, hacking cough and nasal congestion",
+    "notes": "Cough suppressant and decongestant.",
+    "davaIndia": {
+      "name": "Dava India Dextromethorphan + Chlorpheniramine + Phenylephrine Syrup (100 ml)",
+      "productCode": "DI-SYR-050",
+      "packSize": "100 ml Bottle",
+      "price": 30,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 105,
+      "savingsPercent": 78
+    }
+  },
+  {
+    "id": "med-051",
+    "brandNames": [
+      "Ascoril LS",
+      "Bro-Zedex LS",
+      "Grilinctus BM"
+    ],
+    "genericMolecule": "Levosalbutamol + Ambroxol + Guaiphenesin",
+    "strength": "1 mg + 30 mg + 50 mg / 5ml",
+    "dosageForm": "Syrup (100 ml)",
+    "packSize": "100 ml Bottle",
+    "brandedMrp": 128,
+    "janAushadhi": {
+      "name": "Levosalbutamol + Ambroxol + Guaiphenesin Expectorant",
+      "drugCode": "PMBJP00285",
+      "packSize": "100 ml Bottle",
+      "price": 24
+    },
+    "category": "Cough & Respiratory",
+    "commonUses": "Wet chesty cough with thick phlegm and mucus",
+    "notes": "Bronchodilator and mucolytic expectorant.",
+    "davaIndia": {
+      "name": "Dava India Levosalbutamol + Ambroxol + Guaiphenesin Syrup (100 ml)",
+      "productCode": "DI-SYR-051",
+      "packSize": "100 ml Bottle",
+      "price": 29,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 99,
+      "savingsPercent": 77
+    }
+  },
+  {
+    "id": "med-052",
+    "brandNames": [
+      "Asthalin 4",
+      "Ventorlin 4"
+    ],
+    "genericMolecule": "Salbutamol",
+    "strength": "4 mg",
+    "dosageForm": "Tablet",
+    "packSize": "30 Tablets",
+    "brandedMrp": 22,
+    "janAushadhi": {
+      "name": "Salbutamol Tablets IP 4 mg",
+      "drugCode": "PMBJP00290",
+      "packSize": "30 Tablets",
+      "price": 5
+    },
+    "category": "Asthma & Bronchospasm",
+    "commonUses": "Wheezing, shortness of breath, asthma attacks",
+    "notes": "Fast-acting beta-2 agonist.",
+    "davaIndia": {
+      "name": "Dava India Salbutamol Tablet",
+      "productCode": "DI-TAB-052",
+      "packSize": "30 Tablets",
+      "price": 6.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 15.5,
+      "savingsPercent": 70
+    }
+  },
+  {
+    "id": "med-053",
+    "brandNames": [
+      "Shelcal 500",
+      "Gemcal 500",
+      "Cipcal 500"
+    ],
+    "genericMolecule": "Calcium Carbonate + Vitamin D3",
+    "strength": "500 mg + 250 IU",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 138,
+    "janAushadhi": {
+      "name": "Calcium 500 mg with Vitamin D3 250 IU Tablets",
+      "drugCode": "PMBJP00310",
+      "packSize": "15 Tablets",
+      "price": 18
+    },
+    "category": "Bone & Joint Nutrition",
+    "commonUses": "Osteopenia, osteoporosis prevention, pregnancy bone health",
+    "notes": "Elemental calcium plus vitamin D3.",
+    "davaIndia": {
+      "name": "Dava India Calcium Carbonate + Vitamin D3 Tablet",
+      "productCode": "DI-TAB-053",
+      "packSize": "15 Tablets",
+      "price": 21.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 116.5,
+      "savingsPercent": 84
+    }
+  },
+  {
+    "id": "med-054",
+    "brandNames": [
+      "Becosules",
+      "Cobadex CZS",
+      "Supradyn"
+    ],
+    "genericMolecule": "B-Complex with Vitamin C & Zinc",
+    "strength": "Multivitamin Formulation",
+    "dosageForm": "Capsule",
+    "packSize": "20 Capsules",
+    "brandedMrp": 62,
+    "janAushadhi": {
+      "name": "Vitamin B-Complex with Zinc and Vitamin C Capsules",
+      "drugCode": "PMBJP00315",
+      "packSize": "20 Capsules",
+      "price": 12
+    },
+    "category": "Vitamins & Immunity",
+    "commonUses": "Mouth ulcers, weakness, convalescence, fatigue",
+    "notes": "High demand daily multivitamin.",
+    "davaIndia": {
+      "name": "Dava India B-Complex with Vitamin C & Zinc Capsule",
+      "productCode": "DI-CAP-054",
+      "packSize": "20 Capsules",
+      "price": 15,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 47,
+      "savingsPercent": 76
+    }
+  },
+  {
+    "id": "med-055",
+    "brandNames": [
+      "Uprise D3 60K",
+      "Calcirol 60K",
+      "Tayo 60K",
+      "D-Rise 60K"
+    ],
+    "genericMolecule": "Cholecalciferol (Vitamin D3)",
+    "strength": "60,000 IU",
+    "dosageForm": "Capsule",
+    "packSize": "4 Capsules",
+    "brandedMrp": 135,
+    "janAushadhi": {
+      "name": "Cholecalciferol (Vitamin D3) Capsules IP 60,000 IU",
+      "drugCode": "PMBJP00320",
+      "packSize": "4 Capsules",
+      "price": 19
+    },
+    "category": "Bone & Immunity",
+    "commonUses": "Severe Vitamin D deficiency, bone mineralization, fatigue",
+    "notes": "Weekly high-potency Vitamin D3.",
+    "davaIndia": {
+      "name": "Dava India Cholecalciferol (Vitamin D3) Capsule",
+      "productCode": "DI-CAP-055",
+      "packSize": "4 Capsules",
+      "price": 23,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 112,
+      "savingsPercent": 83
+    }
+  },
+  {
+    "id": "med-056",
+    "brandNames": [
+      "Neurobion Forte",
+      "Nurokind Plus",
+      "Optineuron"
+    ],
+    "genericMolecule": "Methylcobalamin + Pyridoxine + Nicotinamide",
+    "strength": "Vitamin B1, B6, B12 Complex",
+    "dosageForm": "Tablet",
+    "packSize": "30 Tablets",
+    "brandedMrp": 46,
+    "janAushadhi": {
+      "name": "Methylcobalamin with Multivitamins Tablets",
+      "drugCode": "PMBJP00325",
+      "packSize": "30 Tablets",
+      "price": 10.5
+    },
+    "category": "Nerve & Neuropathy Health",
+    "commonUses": "Diabetic neuropathy, numbness, tingling in hands and feet",
+    "notes": "Essential neurotropic B-vitamins.",
+    "davaIndia": {
+      "name": "Dava India Methylcobalamin + Pyridoxine + Nicotinamide Tablet",
+      "productCode": "DI-TAB-056",
+      "packSize": "30 Tablets",
+      "price": 13,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 33,
+      "savingsPercent": 72
+    }
+  },
+  {
+    "id": "med-057",
+    "brandNames": [
+      "Orofer XT",
+      "Dexorange",
+      "Autrin",
+      "Chericof"
+    ],
+    "genericMolecule": "Ferrous Ascorbate + Folic Acid",
+    "strength": "100 mg + 1.5 mg",
+    "dosageForm": "Tablet",
+    "packSize": "10 Tablets",
+    "brandedMrp": 175,
+    "janAushadhi": {
+      "name": "Ferrous Ascorbate 100 mg + Folic Acid 1.5 mg Tablets",
+      "drugCode": "PMBJP00330",
+      "packSize": "10 Tablets",
+      "price": 22
+    },
+    "category": "Blood & Iron Care (Anemia)",
+    "commonUses": "Iron deficiency anemia, pregnancy iron supplementation",
+    "notes": "High absorption iron with folic acid.",
+    "davaIndia": {
+      "name": "Dava India Ferrous Ascorbate + Folic Acid Tablet",
+      "productCode": "DI-TAB-057",
+      "packSize": "10 Tablets",
+      "price": 26.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 148.5,
+      "savingsPercent": 85
+    }
+  },
+  {
+    "id": "med-058",
+    "brandNames": [
+      "Pregeb 75",
+      "Lyrica 75",
+      "Maxgalin 75",
+      "Pregabid 75"
+    ],
+    "genericMolecule": "Pregabalin",
+    "strength": "75 mg",
+    "dosageForm": "Capsule",
+    "packSize": "15 Capsules",
+    "brandedMrp": 230,
+    "janAushadhi": {
+      "name": "Pregabalin Capsules IP 75 mg",
+      "drugCode": "PMBJP00340",
+      "packSize": "15 Capsules",
+      "price": 32
+    },
+    "category": "Nerve Pain & Fibromyalgia",
+    "commonUses": "Neuropathic pain, shingles nerve pain, fibromyalgia",
+    "notes": "Neuromodulator saving ~86%.",
+    "davaIndia": {
+      "name": "Dava India Pregabalin Capsule",
+      "productCode": "DI-CAP-058",
+      "packSize": "15 Capsules",
+      "price": 38.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 191.5,
+      "savingsPercent": 83
+    }
+  },
+  {
+    "id": "med-059",
+    "brandNames": [
+      "Pregeb M 75",
+      "Maxgalin M 75",
+      "Mahagaba M 75"
+    ],
+    "genericMolecule": "Pregabalin + Methylcobalamin",
+    "strength": "75 mg + 750 mcg",
+    "dosageForm": "Capsule",
+    "packSize": "15 Capsules",
+    "brandedMrp": 295,
+    "janAushadhi": {
+      "name": "Pregabalin 75 mg + Methylcobalamin 750 mcg Capsules",
+      "drugCode": "PMBJP00342",
+      "packSize": "15 Capsules",
+      "price": 39
+    },
+    "category": "Nerve Pain & Neuropathy",
+    "commonUses": "Sciatica, peripheral neuropathy, chronic burning pain",
+    "notes": "Dual neuro-regenerative and analgesic.",
+    "davaIndia": {
+      "name": "Dava India Pregabalin + Methylcobalamin Capsule",
+      "productCode": "DI-CAP-059",
+      "packSize": "15 Capsules",
+      "price": 47,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 248,
+      "savingsPercent": 84
+    }
+  },
+  {
+    "id": "med-060",
+    "brandNames": [
+      "Gabapin 300",
+      "Neurontin 300",
+      "Gabaneuron 300"
+    ],
+    "genericMolecule": "Gabapentin",
+    "strength": "300 mg",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 210,
+    "janAushadhi": {
+      "name": "Gabapentin Tablets IP 300 mg",
+      "drugCode": "PMBJP00345",
+      "packSize": "15 Tablets",
+      "price": 28
+    },
+    "category": "Neurology & Seizures",
+    "commonUses": "Post-herpetic neuralgia, adjunct seizure therapy",
+    "notes": "GABA analog.",
+    "davaIndia": {
+      "name": "Dava India Gabapentin Tablet",
+      "productCode": "DI-TAB-060",
+      "packSize": "15 Tablets",
+      "price": 33.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 176.5,
+      "savingsPercent": 84
+    }
+  },
+  {
+    "id": "med-061",
+    "brandNames": [
+      "Nexito 10",
+      "Cipralex 10",
+      "Stalopam 10",
+      "S-Citadep 10"
+    ],
+    "genericMolecule": "Escitalopram Oxalate",
+    "strength": "10 mg",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 135,
+    "janAushadhi": {
+      "name": "Escitalopram Tablets IP 10 mg",
+      "drugCode": "PMBJP00350",
+      "packSize": "15 Tablets",
+      "price": 18
+    },
+    "category": "Mental Health (Anxiety & Depression)",
+    "commonUses": "Generalized anxiety disorder, major depressive disorder",
+    "notes": "Selective Serotonin Reuptake Inhibitor (SSRI).",
+    "davaIndia": {
+      "name": "Dava India Escitalopram Oxalate Tablet",
+      "productCode": "DI-TAB-061",
+      "packSize": "15 Tablets",
+      "price": 21.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 113.5,
+      "savingsPercent": 84
+    }
+  },
+  {
+    "id": "med-062",
+    "brandNames": [
+      "Clonafit 0.5",
+      "Lonazep 0.5",
+      "Zapiz 0.5",
+      "Rivotril 0.5"
+    ],
+    "genericMolecule": "Clonazepam",
+    "strength": "0.5 mg",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 65,
+    "janAushadhi": {
+      "name": "Clonazepam Tablets IP 0.5 mg",
+      "drugCode": "PMBJP00355",
+      "packSize": "15 Tablets",
+      "price": 9.5
+    },
+    "category": "Neurology (Anxiety & Panic)",
+    "commonUses": "Panic attacks, insomnia associated with anxiety, epilepsy",
+    "notes": "Schedule H1 benzodiazepine.",
+    "davaIndia": {
+      "name": "Dava India Clonazepam Tablet",
+      "productCode": "DI-TAB-062",
+      "packSize": "15 Tablets",
+      "price": 12,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 53,
+      "savingsPercent": 82
+    }
+  },
+  {
+    "id": "med-063",
+    "brandNames": [
+      "Forcan 150",
+      "Flucos 150",
+      "Diflucan 150",
+      "Syscan 150"
+    ],
+    "genericMolecule": "Fluconazole",
+    "strength": "150 mg",
+    "dosageForm": "Tablet",
+    "packSize": "3 Tablets",
+    "brandedMrp": 48,
+    "janAushadhi": {
+      "name": "Fluconazole Tablets IP 150 mg",
+      "drugCode": "PMBJP00370",
+      "packSize": "3 Tablets",
+      "price": 8
+    },
+    "category": "Antifungal",
+    "commonUses": "Fungal yeast infections, ringworm, vaginal candidiasis",
+    "notes": "Triazole oral antifungal.",
+    "davaIndia": {
+      "name": "Dava India Fluconazole Tablet",
+      "productCode": "DI-TAB-063",
+      "packSize": "3 Tablets",
+      "price": 10,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 38,
+      "savingsPercent": 79
+    }
+  },
+  {
+    "id": "med-064",
+    "brandNames": [
+      "Canditral 100",
+      "Itrasys 100",
+      "Sporanox 100",
+      "It-Mac 100"
+    ],
+    "genericMolecule": "Itraconazole",
+    "strength": "100 mg",
+    "dosageForm": "Capsule",
+    "packSize": "10 Capsules",
+    "brandedMrp": 195,
+    "janAushadhi": {
+      "name": "Itraconazole Capsules IP 100 mg",
+      "drugCode": "PMBJP00375",
+      "packSize": "10 Capsules",
+      "price": 35
+    },
+    "category": "Antifungal (Skin & Nails)",
+    "commonUses": "Stubborn ringworm, jock itch, fungal nail infections (onychomycosis)",
+    "notes": "Deep tissue systemic antifungal.",
+    "davaIndia": {
+      "name": "Dava India Itraconazole Capsule",
+      "productCode": "DI-CAP-064",
+      "packSize": "10 Capsules",
+      "price": 42,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 153,
+      "savingsPercent": 78
+    }
+  },
+  {
+    "id": "med-065",
+    "brandNames": [
+      "Canditral 200",
+      "Itrasys 200",
+      "It-Mac 200"
+    ],
+    "genericMolecule": "Itraconazole",
+    "strength": "200 mg",
+    "dosageForm": "Capsule",
+    "packSize": "10 Capsules",
+    "brandedMrp": 340,
+    "janAushadhi": {
+      "name": "Itraconazole Capsules IP 200 mg",
+      "drugCode": "PMBJP00376",
+      "packSize": "10 Capsules",
+      "price": 58
+    },
+    "category": "Antifungal (Skin & Nails)",
+    "commonUses": "Recurrent fungal infections resistant to standard topical agents",
+    "notes": "Save over ₹280 per pack.",
+    "davaIndia": {
+      "name": "Dava India Itraconazole Capsule",
+      "productCode": "DI-CAP-065",
+      "packSize": "10 Capsules",
+      "price": 68.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 271.5,
+      "savingsPercent": 80
+    }
+  },
+  {
+    "id": "med-066",
+    "brandNames": [
+      "Betadine 5% Ointment",
+      "Cipladine 5%"
+    ],
+    "genericMolecule": "Povidone Iodine",
+    "strength": "5% w/w",
+    "dosageForm": "Ointment (20 g)",
+    "packSize": "20 g Tube",
+    "brandedMrp": 68,
+    "janAushadhi": {
+      "name": "Povidone-Iodine Ointment IP 5% w/w",
+      "drugCode": "PMBJP00385",
+      "packSize": "20 g Tube",
+      "price": 14.5
+    },
+    "category": "Antiseptic & Wound Care",
+    "commonUses": "Cuts, abrasions, burns, minor wound infection prevention",
+    "notes": "Standard broad-spectrum topical antiseptic.",
+    "davaIndia": {
+      "name": "Dava India Povidone Iodine Ointment (20 g)",
+      "productCode": "DI-OIN-066",
+      "packSize": "20 g Tube",
+      "price": 18,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 50,
+      "savingsPercent": 74
+    }
+  },
+  {
+    "id": "med-067",
+    "brandNames": [
+      "Volini Gel",
+      "Voveran Emulgel",
+      "Moov Gel"
+    ],
+    "genericMolecule": "Diclofenac Diethylamine + Linseed Oil + Methyl Salicylate + Menthol",
+    "strength": "Pain Relief Formula",
+    "dosageForm": "Gel (30 g)",
+    "packSize": "30 g Tube",
+    "brandedMrp": 125,
+    "janAushadhi": {
+      "name": "Diclofenac Diethylamine with Linseed Oil Gel",
+      "drugCode": "PMBJP00390",
+      "packSize": "30 g Tube",
+      "price": 24
+    },
+    "category": "Topical Pain Relief",
+    "commonUses": "Neck sprain, lower back pain, knee joint stiffness",
+    "notes": "Topical fast-absorption pain relief gel.",
+    "davaIndia": {
+      "name": "Dava India Diclofenac Diethylamine + Linseed Oil + Methyl Salicylate + Menthol Gel (30 g)",
+      "productCode": "DI-GEL-067",
+      "packSize": "30 g Tube",
+      "price": 29,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 96,
+      "savingsPercent": 77
+    }
+  },
+  {
+    "id": "med-068",
+    "brandNames": [
+      "Candid Cream",
+      "Canesten Cream"
+    ],
+    "genericMolecule": "Clotrimazole",
+    "strength": "1% w/w",
+    "dosageForm": "Cream (30 g)",
+    "packSize": "30 g Tube",
+    "brandedMrp": 110,
+    "janAushadhi": {
+      "name": "Clotrimazole Cream IP 1% w/w",
+      "drugCode": "PMBJP00395",
+      "packSize": "30 g Tube",
+      "price": 18
+    },
+    "category": "Topical Antifungal",
+    "commonUses": "Athlete's foot, sweat rash, fungal skin irritation",
+    "notes": "Imidazole antifungal cream.",
+    "davaIndia": {
+      "name": "Dava India Clotrimazole Cream (30 g)",
+      "productCode": "DI-CRE-068",
+      "packSize": "30 g Tube",
+      "price": 21.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 88.5,
+      "savingsPercent": 80
+    }
+  },
+  {
+    "id": "med-069",
+    "brandNames": [
+      "Electral",
+      "Enerzal Sachet",
+      "Walyte ORS"
+    ],
+    "genericMolecule": "Oral Rehydration Salts (WHO Formula)",
+    "strength": "21.8 g Sachet",
+    "dosageForm": "Powder Sachet",
+    "packSize": "1 Sachet",
+    "brandedMrp": 22,
+    "janAushadhi": {
+      "name": "Oral Rehydration Salt (ORS) WHO Formula IP",
+      "drugCode": "PMBJP00410",
+      "packSize": "1 Sachet",
+      "price": 4.5
+    },
+    "category": "Electrolytes & Rehydration",
+    "commonUses": "Dehydration from diarrhea, heat stroke, vomiting",
+    "notes": "WHO-compliant life-saving hydration formulation.",
+    "davaIndia": {
+      "name": "Dava India Oral Rehydration Salts (WHO Formula) Powder Sachet",
+      "productCode": "DI-POW-069",
+      "packSize": "1 Sachet",
+      "price": 6,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 16,
+      "savingsPercent": 73
+    }
+  },
+  {
+    "id": "med-070",
+    "brandNames": [
+      "Refresh Tears",
+      "Tear Drops",
+      "Add Tears"
+    ],
+    "genericMolecule": "Carboxymethylcellulose Sodium",
+    "strength": "0.5% w/v",
+    "dosageForm": "Eye Drops (10 ml)",
+    "packSize": "10 ml Bottle",
+    "brandedMrp": 165,
+    "janAushadhi": {
+      "name": "Carboxymethylcellulose Sodium Lubricant Eye Drops IP 0.5%",
+      "drugCode": "PMBJP00420",
+      "packSize": "10 ml Bottle",
+      "price": 26
+    },
+    "category": "Eye Care (Lubricant)",
+    "commonUses": "Dry eyes, computer screen eye fatigue, burning sensation",
+    "notes": "Artificial tears lubricant.",
+    "davaIndia": {
+      "name": "Dava India Carboxymethylcellulose Sodium Eye Drops (10 ml)",
+      "productCode": "DI-EYE-070",
+      "packSize": "10 ml Bottle",
+      "price": 31,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 134,
+      "savingsPercent": 81
+    }
+  },
+  {
+    "id": "med-071",
+    "brandNames": [
+      "Ciplox D",
+      "Cifran D Eye Drops"
+    ],
+    "genericMolecule": "Ciprofloxacin + Dexamethasone",
+    "strength": "0.3% + 0.1%",
+    "dosageForm": "Eye/Ear Drops (10 ml)",
+    "packSize": "10 ml Bottle",
+    "brandedMrp": 62,
+    "janAushadhi": {
+      "name": "Ciprofloxacin 0.3% + Dexamethasone 0.1% Drops",
+      "drugCode": "PMBJP00425",
+      "packSize": "10 ml Bottle",
+      "price": 11.5
+    },
+    "category": "Eye & Ear Anti-infective",
+    "commonUses": "Conjunctivitis (pink eye), ear canal infection and inflammation",
+    "notes": "Antibiotic with corticosteroid.",
+    "davaIndia": {
+      "name": "Dava India Ciprofloxacin + Dexamethasone Eye/Ear Drops (10 ml)",
+      "productCode": "DI-EYE-071",
+      "packSize": "10 ml Bottle",
+      "price": 14.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 47.5,
+      "savingsPercent": 77
+    }
+  },
+  {
+    "id": "med-072",
+    "brandNames": [
+      "Zentel 400",
+      "Bandy 400",
+      "Noworm 400"
+    ],
+    "genericMolecule": "Albendazole",
+    "strength": "400 mg",
+    "dosageForm": "Chewable Tablet",
+    "packSize": "1 Tablet",
+    "brandedMrp": 18,
+    "janAushadhi": {
+      "name": "Albendazole Chewable Tablets IP 400 mg",
+      "drugCode": "PMBJP00435",
+      "packSize": "1 Tablet",
+      "price": 3.5
+    },
+    "category": "Deworming (Antiparasitic)",
+    "commonUses": "Intestinal worm infestation in adults and children",
+    "notes": "Universal deworming therapy.",
+    "davaIndia": {
+      "name": "Dava India Albendazole Chewable Tablet",
+      "productCode": "DI-CHE-072",
+      "packSize": "1 Tablet",
+      "price": 5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 13,
+      "savingsPercent": 72
+    }
+  },
+  {
+    "id": "med-073",
+    "brandNames": [
+      "Digene Gel",
+      "Gelusil MPS",
+      "Cremaffin Antacid"
+    ],
+    "genericMolecule": "Magaldrate + Simethicone",
+    "strength": "400 mg + 20 mg / 5ml",
+    "dosageForm": "Suspension (200 ml)",
+    "packSize": "200 ml Bottle",
+    "brandedMrp": 155,
+    "janAushadhi": {
+      "name": "Magaldrate and Simethicone Oral Suspension IP",
+      "drugCode": "PMBJP00445",
+      "packSize": "200 ml Bottle",
+      "price": 32
+    },
+    "category": "Antacid & Anti-gas",
+    "commonUses": "Immediate acid relief, gas bloating, belching",
+    "notes": "Fast soothing mucosal barrier.",
+    "davaIndia": {
+      "name": "Dava India Magaldrate + Simethicone Suspension (200 ml)",
+      "productCode": "DI-SUS-073",
+      "packSize": "200 ml Bottle",
+      "price": 38.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 116.5,
+      "savingsPercent": 75
+    }
+  },
+  {
+    "id": "med-074",
+    "brandNames": [
+      "Duphalac Syrup",
+      "Looz Syrup",
+      "Evict"
+    ],
+    "genericMolecule": "Lactulose Solution",
+    "strength": "10 g / 15 ml",
+    "dosageForm": "Syrup (200 ml)",
+    "packSize": "200 ml Bottle",
+    "brandedMrp": 295,
+    "janAushadhi": {
+      "name": "Lactulose Oral Solution USP 10 g / 15 ml",
+      "drugCode": "PMBJP00450",
+      "packSize": "200 ml Bottle",
+      "price": 55
+    },
+    "category": "Laxative & Digestion",
+    "commonUses": "Chronic constipation, hepatic encephalopathy",
+    "notes": "Gentle osmotic laxative.",
+    "davaIndia": {
+      "name": "Dava India Lactulose Solution Syrup (200 ml)",
+      "productCode": "DI-SYR-074",
+      "packSize": "200 ml Bottle",
+      "price": 66,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 229,
+      "savingsPercent": 78
+    }
+  },
+  {
+    "id": "med-075",
+    "brandNames": [
+      "Wysolone 5",
+      "Omnacortil 5"
+    ],
+    "genericMolecule": "Prednisolone",
+    "strength": "5 mg",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 24,
+    "janAushadhi": {
+      "name": "Prednisolone Dispersible Tablets IP 5 mg",
+      "drugCode": "PMBJP00460",
+      "packSize": "15 Tablets",
+      "price": 5.5
+    },
+    "category": "Corticosteroid & Anti-inflammatory",
+    "commonUses": "Severe allergic reactions, rheumatoid arthritis, asthma exacerbation",
+    "notes": "Systemic corticosteroid.",
+    "davaIndia": {
+      "name": "Dava India Prednisolone Tablet",
+      "productCode": "DI-TAB-075",
+      "packSize": "15 Tablets",
+      "price": 7,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 17,
+      "savingsPercent": 71
+    }
+  },
+  {
+    "id": "med-076",
+    "brandNames": [
+      "Wysolone 10",
+      "Omnacortil 10"
+    ],
+    "genericMolecule": "Prednisolone",
+    "strength": "10 mg",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 38,
+    "janAushadhi": {
+      "name": "Prednisolone Dispersible Tablets IP 10 mg",
+      "drugCode": "PMBJP00461",
+      "packSize": "15 Tablets",
+      "price": 7.5
+    },
+    "category": "Corticosteroid & Anti-inflammatory",
+    "commonUses": "Moderate to high dose steroid therapy for flare-ups",
+    "notes": "Dispersible tablet formulation.",
+    "davaIndia": {
+      "name": "Dava India Prednisolone Tablet",
+      "productCode": "DI-TAB-076",
+      "packSize": "15 Tablets",
+      "price": 9.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 28.5,
+      "savingsPercent": 75
+    }
+  },
+  {
+    "id": "med-077",
+    "brandNames": [
+      "Dexona 0.5",
+      "Demisone 0.5"
+    ],
+    "genericMolecule": "Dexamethasone",
+    "strength": "0.5 mg",
+    "dosageForm": "Tablet",
+    "packSize": "30 Tablets",
+    "brandedMrp": 26,
+    "janAushadhi": {
+      "name": "Dexamethasone Tablets IP 0.5 mg",
+      "drugCode": "PMBJP00465",
+      "packSize": "30 Tablets",
+      "price": 5
+    },
+    "category": "Corticosteroid",
+    "commonUses": "Acute inflammation, allergic states",
+    "notes": "Long-acting potent glucocorticoid.",
+    "davaIndia": {
+      "name": "Dava India Dexamethasone Tablet",
+      "productCode": "DI-TAB-077",
+      "packSize": "30 Tablets",
+      "price": 6.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 19.5,
+      "savingsPercent": 75
+    }
+  },
+  {
+    "id": "med-078",
+    "brandNames": [
+      "Lasix 40",
+      "Salinex 40"
+    ],
+    "genericMolecule": "Furosemide",
+    "strength": "40 mg",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 18,
+    "janAushadhi": {
+      "name": "Furosemide Tablets IP 40 mg",
+      "drugCode": "PMBJP00470",
+      "packSize": "15 Tablets",
+      "price": 4.2
+    },
+    "category": "Diuretic (Fluid Retention & Edema)",
+    "commonUses": "Swelling in legs (edema), congestive heart failure, renal edema",
+    "notes": "Loop diuretic.",
+    "davaIndia": {
+      "name": "Dava India Furosemide Tablet",
+      "productCode": "DI-TAB-078",
+      "packSize": "15 Tablets",
+      "price": 5.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 12.5,
+      "savingsPercent": 69
+    }
+  },
+  {
+    "id": "med-079",
+    "brandNames": [
+      "Aldactone 25",
+      "Spiractin 25"
+    ],
+    "genericMolecule": "Spironolactone",
+    "strength": "25 mg",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 55,
+    "janAushadhi": {
+      "name": "Spironolactone Tablets IP 25 mg",
+      "drugCode": "PMBJP00475",
+      "packSize": "15 Tablets",
+      "price": 11
+    },
+    "category": "Diuretic & Heart Care",
+    "commonUses": "Heart failure, cirrhosis ascites, potassium-sparing diuresis",
+    "notes": "Aldosterone antagonist.",
+    "davaIndia": {
+      "name": "Dava India Spironolactone Tablet",
+      "productCode": "DI-TAB-079",
+      "packSize": "15 Tablets",
+      "price": 14,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 41,
+      "savingsPercent": 75
+    }
+  },
+  {
+    "id": "med-080",
+    "brandNames": [
+      "Vertin 16",
+      "Betavert 16",
+      "Vertipress 16"
+    ],
+    "genericMolecule": "Betahistine Dihydrochloride",
+    "strength": "16 mg",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 185,
+    "janAushadhi": {
+      "name": "Betahistine Dihydrochloride Tablets IP 16 mg",
+      "drugCode": "PMBJP00485",
+      "packSize": "15 Tablets",
+      "price": 24
+    },
+    "category": "Vertigo & Dizziness",
+    "commonUses": "Meniere's disease, inner ear vertigo, ringing in ears (tinnitus)",
+    "notes": "Microcirculatory histamine analog.",
+    "davaIndia": {
+      "name": "Dava India Betahistine Dihydrochloride Tablet",
+      "productCode": "DI-TAB-080",
+      "packSize": "15 Tablets",
+      "price": 29,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 156,
+      "savingsPercent": 84
+    }
+  },
+  {
+    "id": "med-081",
+    "brandNames": [
+      "Udiliv 300",
+      "Ursochol 300",
+      "Ursokem 300"
+    ],
+    "genericMolecule": "Ursodeoxycholic Acid",
+    "strength": "300 mg",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 495,
+    "janAushadhi": {
+      "name": "Ursodeoxycholic Acid Tablets IP 300 mg",
+      "drugCode": "PMBJP00495",
+      "packSize": "15 Tablets",
+      "price": 72
+    },
+    "category": "Liver Care & Gallstones",
+    "commonUses": "Fatty liver, gallstone dissolution, cholestatic liver disorders",
+    "notes": "Massive savings of over ₹420 per pack.",
+    "davaIndia": {
+      "name": "Dava India Ursodeoxycholic Acid Tablet",
+      "productCode": "DI-TAB-081",
+      "packSize": "15 Tablets",
+      "price": 85,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 410,
+      "savingsPercent": 83
+    }
+  },
+  {
+    "id": "med-082",
+    "brandNames": [
+      "T-Bact 2% Ointment",
+      "Bactroban 2%"
+    ],
+    "genericMolecule": "Mupirocin",
+    "strength": "2% w/w",
+    "dosageForm": "Ointment (5 g)",
+    "packSize": "5 g Tube",
+    "brandedMrp": 135,
+    "janAushadhi": {
+      "name": "Mupirocin Ointment IP 2% w/w",
+      "drugCode": "PMBJP00510",
+      "packSize": "5 g Tube",
+      "price": 22
+    },
+    "category": "Topical Antibiotic",
+    "commonUses": "Impetigo, bacterial skin folliculitis, infected cuts",
+    "notes": "Gram-positive targeted antibacterial.",
+    "davaIndia": {
+      "name": "Dava India Mupirocin Ointment (5 g)",
+      "productCode": "DI-OIN-082",
+      "packSize": "5 g Tube",
+      "price": 26.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 108.5,
+      "savingsPercent": 80
+    }
+  },
+  {
+    "id": "med-083",
+    "brandNames": [
+      "Burnol",
+      "Silverex Ionic Cream"
+    ],
+    "genericMolecule": "Silver Sulfadiazine",
+    "strength": "1% w/w",
+    "dosageForm": "Cream (20 g)",
+    "packSize": "20 g Tube",
+    "brandedMrp": 68,
+    "janAushadhi": {
+      "name": "Silver Sulfadiazine Cream IP 1% w/w",
+      "drugCode": "PMBJP00515",
+      "packSize": "20 g Tube",
+      "price": 13
+    },
+    "category": "Burn Care & Antiseptic",
+    "commonUses": "Second and third degree burn wound dressing",
+    "notes": "Broad-spectrum topical antimicrobial for burns.",
+    "davaIndia": {
+      "name": "Dava India Silver Sulfadiazine Cream (20 g)",
+      "productCode": "DI-CRE-083",
+      "packSize": "20 g Tube",
+      "price": 16.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 51.5,
+      "savingsPercent": 76
+    }
+  },
+  {
+    "id": "med-084",
+    "brandNames": [
+      "Scaboma Lotion",
+      "Permite 5% Cream"
+    ],
+    "genericMolecule": "Permethrin",
+    "strength": "5% w/v",
+    "dosageForm": "Lotion (60 ml)",
+    "packSize": "60 ml Bottle",
+    "brandedMrp": 110,
+    "janAushadhi": {
+      "name": "Permethrin Lotion 5% w/v",
+      "drugCode": "PMBJP00520",
+      "packSize": "60 ml Bottle",
+      "price": 21
+    },
+    "category": "Scabies & Lice Treatment",
+    "commonUses": "Scabies mite infestation, body lice eradication",
+    "notes": "Standard curative single application lotion.",
+    "davaIndia": {
+      "name": "Dava India Permethrin Lotion (60 ml)",
+      "productCode": "DI-LOT-084",
+      "packSize": "60 ml Bottle",
+      "price": 25,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 85,
+      "savingsPercent": 77
+    }
+  },
+  {
+    "id": "med-085",
+    "brandNames": [
+      "Tenovate Cream",
+      "Clobetamil"
+    ],
+    "genericMolecule": "Clobetasol Propionate",
+    "strength": "0.05% w/w",
+    "dosageForm": "Cream (15 g)",
+    "packSize": "15 g Tube",
+    "brandedMrp": 95,
+    "janAushadhi": {
+      "name": "Clobetasol Propionate Cream IP 0.05% w/w",
+      "drugCode": "PMBJP00525",
+      "packSize": "15 g Tube",
+      "price": 16
+    },
+    "category": "Dermatology (Severe Eczema/Psoriasis)",
+    "commonUses": "Psoriasis plaques, stubborn eczema, localized lichen planus",
+    "notes": "Ultra-high potency topical corticosteroid.",
+    "davaIndia": {
+      "name": "Dava India Clobetasol Propionate Cream (15 g)",
+      "productCode": "DI-CRE-085",
+      "packSize": "15 g Tube",
+      "price": 20,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 75,
+      "savingsPercent": 79
+    }
+  },
+  {
+    "id": "med-086",
+    "brandNames": [
+      "Nizral 2% Shampoo",
+      "Scalpe Plus"
+    ],
+    "genericMolecule": "Ketoconazole",
+    "strength": "2% w/v",
+    "dosageForm": "Shampoo (100 ml)",
+    "packSize": "100 ml Bottle",
+    "brandedMrp": 295,
+    "janAushadhi": {
+      "name": "Ketoconazole Medicated Scalp Lotion IP 2%",
+      "drugCode": "PMBJP00530",
+      "packSize": "100 ml Bottle",
+      "price": 48
+    },
+    "category": "Anti-Dandruff & Scalp Fungal",
+    "commonUses": "Severe dandruff, seborrheic dermatitis, pityriasis versicolor",
+    "notes": "Medicated antifungal shampoo.",
+    "davaIndia": {
+      "name": "Dava India Ketoconazole Shampoo (100 ml)",
+      "productCode": "DI-SHA-086",
+      "packSize": "100 ml Bottle",
+      "price": 57.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 237.5,
+      "savingsPercent": 81
+    }
+  },
+  {
+    "id": "med-087",
+    "brandNames": [
+      "Calpol 250 Peadiatric",
+      "Crocin 240 DS",
+      "Dolo 250 Suspension"
+    ],
+    "genericMolecule": "Paracetamol Paediatric Suspension",
+    "strength": "250 mg / 5ml",
+    "dosageForm": "Oral Suspension (60 ml)",
+    "packSize": "60 ml Bottle",
+    "brandedMrp": 52,
+    "janAushadhi": {
+      "name": "Paracetamol Paediatric Oral Suspension IP 250 mg / 5ml",
+      "drugCode": "PMBJP00540",
+      "packSize": "60 ml Bottle",
+      "price": 11
+    },
+    "category": "Paediatric Fever & Pain",
+    "commonUses": "Fever and immunization discomfort in toddlers and young children",
+    "notes": "Child-friendly flavored liquid paracetamol.",
+    "davaIndia": {
+      "name": "Dava India Paracetamol Paediatric Suspension Oral Suspension (60 ml)",
+      "productCode": "DI-ORA-087",
+      "packSize": "60 ml Bottle",
+      "price": 14,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 38,
+      "savingsPercent": 73
+    }
+  },
+  {
+    "id": "med-088",
+    "brandNames": [
+      "Combiflam Suspension",
+      "Ibugesic Plus Syrup"
+    ],
+    "genericMolecule": "Ibuprofen + Paracetamol Paediatric Suspension",
+    "strength": "100 mg + 162.5 mg / 5ml",
+    "dosageForm": "Oral Suspension (60 ml)",
+    "packSize": "60 ml Bottle",
+    "brandedMrp": 48,
+    "janAushadhi": {
+      "name": "Ibuprofen and Paracetamol Suspension",
+      "drugCode": "PMBJP00545",
+      "packSize": "60 ml Bottle",
+      "price": 12
+    },
+    "category": "Paediatric Fever & Pain",
+    "commonUses": "High refractory childhood fevers and acute pains",
+    "notes": "Dual antipyretic liquid.",
+    "davaIndia": {
+      "name": "Dava India Ibuprofen + Paracetamol Paediatric Suspension Oral Suspension (60 ml)",
+      "productCode": "DI-ORA-088",
+      "packSize": "60 ml Bottle",
+      "price": 15,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 33,
+      "savingsPercent": 69
+    }
+  },
+  {
+    "id": "med-089",
+    "brandNames": [
+      "Zinconia 20",
+      "Zinvita",
+      "Zincovit Tablet"
+    ],
+    "genericMolecule": "Zinc Sulfate Dispersible",
+    "strength": "20 mg",
+    "dosageForm": "Dispersible Tablet",
+    "packSize": "14 Tablets",
+    "brandedMrp": 42,
+    "janAushadhi": {
+      "name": "Zinc Sulfate Dispersible Tablets IP 20 mg",
+      "drugCode": "PMBJP00550",
+      "packSize": "14 Tablets",
+      "price": 6.5
+    },
+    "category": "Immunity & Childhood Diarrhea",
+    "commonUses": "WHO protocol for acute childhood diarrhea, immune recovery",
+    "notes": "Essential mineral cofactor.",
+    "davaIndia": {
+      "name": "Dava India Zinc Sulfate Dispersible Dispersible Tablet",
+      "productCode": "DI-DIS-089",
+      "packSize": "14 Tablets",
+      "price": 8,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 34,
+      "savingsPercent": 81
+    }
+  },
+  {
+    "id": "med-090",
+    "brandNames": [
+      "Imodium 2",
+      "Lopamide 2",
+      "Eldoper 2"
+    ],
+    "genericMolecule": "Loperamide Hydrochloride",
+    "strength": "2 mg",
+    "dosageForm": "Tablet",
+    "packSize": "10 Tablets",
+    "brandedMrp": 35,
+    "janAushadhi": {
+      "name": "Loperamide Hydrochloride Capsules IP 2 mg",
+      "drugCode": "PMBJP00560",
+      "packSize": "10 Tablets",
+      "price": 6
+    },
+    "category": "Anti-diarrheal",
+    "commonUses": "Acute non-infectious loose stools, traveler's diarrhea",
+    "notes": "Reduces gut motility.",
+    "davaIndia": {
+      "name": "Dava India Loperamide Hydrochloride Tablet",
+      "productCode": "DI-TAB-090",
+      "packSize": "10 Tablets",
+      "price": 7.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 27.5,
+      "savingsPercent": 79
+    }
+  },
+  {
+    "id": "med-091",
+    "brandNames": [
+      "Ceftum 500",
+      "Cetil 500",
+      "Forcef 500",
+      "Novacef 500"
+    ],
+    "genericMolecule": "Cefuroxime Axetil",
+    "strength": "500 mg",
+    "dosageForm": "Tablet",
+    "packSize": "10 Tablets",
+    "brandedMrp": 485,
+    "janAushadhi": {
+      "name": "Cefuroxime Axetil Tablets IP 500 mg",
+      "drugCode": "PMBJP00222",
+      "packSize": "10 Tablets",
+      "price": 92
+    },
+    "category": "Antibiotics (Bacterial Infection)",
+    "commonUses": "Severe chest, kidney, Lyme disease and soft tissue infections",
+    "notes": "Second generation cephalosporin saving near ₹400 per strip.",
+    "davaIndia": {
+      "name": "Dava India Cefuroxime Axetil Tablet",
+      "productCode": "DI-TAB-091",
+      "packSize": "10 Tablets",
+      "price": 108.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 376.5,
+      "savingsPercent": 78
+    }
+  },
+  {
+    "id": "med-092",
+    "brandNames": [
+      "Gudcef 200",
+      "Monocef-O 200",
+      "Doxcef 200",
+      "Cefoprox 200"
+    ],
+    "genericMolecule": "Cefpodoxime Proxetil",
+    "strength": "200 mg",
+    "dosageForm": "Tablet",
+    "packSize": "10 Tablets",
+    "brandedMrp": 260,
+    "janAushadhi": {
+      "name": "Cefpodoxime Proxetil Tablets IP 200 mg",
+      "drugCode": "PMBJP00223",
+      "packSize": "10 Tablets",
+      "price": 52
+    },
+    "category": "Antibiotics (Bacterial Infection)",
+    "commonUses": "Bronchitis, pneumonia, acute maxillary sinusitis",
+    "notes": "Potent 3rd gen cephalosporin saving 80%.",
+    "davaIndia": {
+      "name": "Dava India Cefpodoxime Proxetil Tablet",
+      "productCode": "DI-TAB-092",
+      "packSize": "10 Tablets",
+      "price": 62.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 197.5,
+      "savingsPercent": 76
+    }
+  },
+  {
+    "id": "med-093",
+    "brandNames": [
+      "Novamox 500",
+      "Mox 500",
+      "Amoxil 500"
+    ],
+    "genericMolecule": "Amoxicillin Trihydrate",
+    "strength": "500 mg",
+    "dosageForm": "Capsule",
+    "packSize": "15 Capsules",
+    "brandedMrp": 115,
+    "janAushadhi": {
+      "name": "Amoxicillin Capsules IP 500 mg",
+      "drugCode": "PMBJP00205",
+      "packSize": "15 Capsules",
+      "price": 26
+    },
+    "category": "Antibiotics (Bacterial Infection)",
+    "commonUses": "Ear infections, strep throat, uncomplicated dental abscess",
+    "notes": "Aminopenicillin antibiotic.",
+    "davaIndia": {
+      "name": "Dava India Amoxicillin Trihydrate Capsule",
+      "productCode": "DI-CAP-093",
+      "packSize": "15 Capsules",
+      "price": 31,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 84,
+      "savingsPercent": 73
+    }
+  },
+  {
+    "id": "med-094",
+    "brandNames": [
+      "Claribid 500",
+      "Synclar 500",
+      "C-Puran 500"
+    ],
+    "genericMolecule": "Clarithromycin",
+    "strength": "500 mg",
+    "dosageForm": "Tablet",
+    "packSize": "10 Tablets",
+    "brandedMrp": 440,
+    "janAushadhi": {
+      "name": "Clarithromycin Tablets IP 500 mg",
+      "drugCode": "PMBJP00218",
+      "packSize": "10 Tablets",
+      "price": 85
+    },
+    "category": "Antibiotics (H. Pylori & Chest)",
+    "commonUses": "H. pylori stomach ulcer eradication, severe atypical pneumonia",
+    "notes": "Save over ₹350 per strip.",
+    "davaIndia": {
+      "name": "Dava India Clarithromycin Tablet",
+      "productCode": "DI-TAB-094",
+      "packSize": "10 Tablets",
+      "price": 100.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 339.5,
+      "savingsPercent": 77
+    }
+  },
+  {
+    "id": "med-095",
+    "brandNames": [
+      "Norflox TZ",
+      "Nor TZ",
+      "Norflox-T"
+    ],
+    "genericMolecule": "Norfloxacin + Tinidazole",
+    "strength": "400 mg + 600 mg",
+    "dosageForm": "Tablet",
+    "packSize": "10 Tablets",
+    "brandedMrp": 110,
+    "janAushadhi": {
+      "name": "Norfloxacin 400 mg + Tinidazole 600 mg Tablets",
+      "drugCode": "PMBJP00236",
+      "packSize": "10 Tablets",
+      "price": 21
+    },
+    "category": "Gastrointestinal Anti-infective",
+    "commonUses": "Severe stomach bug, bacillary dysentery, food poisoning",
+    "notes": "Standard traveler's diarrhea combo.",
+    "davaIndia": {
+      "name": "Dava India Norfloxacin + Tinidazole Tablet",
+      "productCode": "DI-TAB-095",
+      "packSize": "10 Tablets",
+      "price": 25,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 85,
+      "savingsPercent": 77
+    }
+  },
+  {
+    "id": "med-096",
+    "brandNames": [
+      "Martifur MR 100",
+      "Niftran 100",
+      "Urifast 100"
+    ],
+    "genericMolecule": "Nitrofurantoin Modified Release",
+    "strength": "100 mg",
+    "dosageForm": "Tablet",
+    "packSize": "10 Tablets",
+    "brandedMrp": 155,
+    "janAushadhi": {
+      "name": "Nitrofurantoin Prolonged-Release Tablets IP 100 mg",
+      "drugCode": "PMBJP00238",
+      "packSize": "10 Tablets",
+      "price": 32
+    },
+    "category": "Urinary Tract Antibiotic (UTI)",
+    "commonUses": "Acute uncomplicated urinary tract infections (cystitis)",
+    "notes": "First-line UTI therapeutic.",
+    "davaIndia": {
+      "name": "Dava India Nitrofurantoin Modified Release Tablet",
+      "productCode": "DI-TAB-096",
+      "packSize": "10 Tablets",
+      "price": 38.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 116.5,
+      "savingsPercent": 75
+    }
+  },
+  {
+    "id": "med-097",
+    "brandNames": [
+      "Cardace 5",
+      "Hopace 5",
+      "Ramipres 5"
+    ],
+    "genericMolecule": "Ramipril",
+    "strength": "5 mg",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 165,
+    "janAushadhi": {
+      "name": "Ramipril Tablets IP 5 mg",
+      "drugCode": "PMBJP00101",
+      "packSize": "15 Tablets",
+      "price": 19.5
+    },
+    "category": "Cardiovascular (Hypertension & Kidney)",
+    "commonUses": "Heart failure, diabetic nephropathy, high blood pressure",
+    "notes": "ACE inhibitor.",
+    "davaIndia": {
+      "name": "Dava India Ramipril Tablet",
+      "productCode": "DI-TAB-097",
+      "packSize": "15 Tablets",
+      "price": 23.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 141.5,
+      "savingsPercent": 86
+    }
+  },
+  {
+    "id": "med-098",
+    "brandNames": [
+      "Concor 5",
+      "Bisocor 5",
+      "Corbis 5"
+    ],
+    "genericMolecule": "Bisoprolol Fumarate",
+    "strength": "5 mg",
+    "dosageForm": "Tablet",
+    "packSize": "10 Tablets",
+    "brandedMrp": 125,
+    "janAushadhi": {
+      "name": "Bisoprolol Fumarate Tablets IP 5 mg",
+      "drugCode": "PMBJP00155",
+      "packSize": "10 Tablets",
+      "price": 18
+    },
+    "category": "Cardiovascular (Heart Failure & BP)",
+    "commonUses": "Stable chronic heart failure, angina, hypertension",
+    "notes": "Cardioselective beta-1 blocker.",
+    "davaIndia": {
+      "name": "Dava India Bisoprolol Fumarate Tablet",
+      "productCode": "DI-TAB-098",
+      "packSize": "10 Tablets",
+      "price": 21.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 103.5,
+      "savingsPercent": 83
+    }
+  },
+  {
+    "id": "med-099",
+    "brandNames": [
+      "Nebicard 5",
+      "Nebistar 5",
+      "Nebi 5"
+    ],
+    "genericMolecule": "Nebivolol",
+    "strength": "5 mg",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 185,
+    "janAushadhi": {
+      "name": "Nebivolol Tablets IP 5 mg",
+      "drugCode": "PMBJP00156",
+      "packSize": "15 Tablets",
+      "price": 24
+    },
+    "category": "Cardiovascular (Hypertension & Vasodilation)",
+    "commonUses": "Essential hypertension with nitric oxide mediated vasodilation",
+    "notes": "Third-generation beta blocker.",
+    "davaIndia": {
+      "name": "Dava India Nebivolol Tablet",
+      "productCode": "DI-TAB-099",
+      "packSize": "15 Tablets",
+      "price": 29,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 156,
+      "savingsPercent": 84
+    }
+  },
+  {
+    "id": "med-100",
+    "brandNames": [
+      "Losar 50",
+      "Repace 50",
+      "Tozaar 50",
+      "Covance 50"
+    ],
+    "genericMolecule": "Losartan Potassium",
+    "strength": "50 mg",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 110,
+    "janAushadhi": {
+      "name": "Losartan Potassium Tablets IP 50 mg",
+      "drugCode": "PMBJP00108",
+      "packSize": "15 Tablets",
+      "price": 14.5
+    },
+    "category": "Cardiovascular (High Blood Pressure)",
+    "commonUses": "Hypertension and diabetic kidney protection",
+    "notes": "Renowned ARB.",
+    "davaIndia": {
+      "name": "Dava India Losartan Potassium Tablet",
+      "productCode": "DI-TAB-100",
+      "packSize": "15 Tablets",
+      "price": 17.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 92.5,
+      "savingsPercent": 84
+    }
+  },
+  {
+    "id": "med-101",
+    "brandNames": [
+      "Sorbitrate 10",
+      "Isordil 10"
+    ],
+    "genericMolecule": "Isosorbide Dinitrate",
+    "strength": "10 mg",
+    "dosageForm": "Sublingual Tablet",
+    "packSize": "50 Tablets",
+    "brandedMrp": 72,
+    "janAushadhi": {
+      "name": "Isosorbide Dinitrate Tablets IP 10 mg",
+      "drugCode": "PMBJP00148",
+      "packSize": "50 Tablets",
+      "price": 12
+    },
+    "category": "Emergency Heart Care (Angina)",
+    "commonUses": "Prevention and relief of cardiac chest pain (angina pectoris)",
+    "notes": "Nitrate coronary vasodilator.",
+    "davaIndia": {
+      "name": "Dava India Isosorbide Dinitrate Sublingual Tablet",
+      "productCode": "DI-SUB-101",
+      "packSize": "50 Tablets",
+      "price": 15,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 57,
+      "savingsPercent": 79
+    }
+  },
+  {
+    "id": "med-102",
+    "brandNames": [
+      "Jardiance 10",
+      "Gibtulio 10",
+      "Empaglyn 10"
+    ],
+    "genericMolecule": "Empagliflozin",
+    "strength": "10 mg",
+    "dosageForm": "Tablet",
+    "packSize": "10 Tablets",
+    "brandedMrp": 495,
+    "janAushadhi": {
+      "name": "Empagliflozin Tablets IP 10 mg",
+      "drugCode": "PMBJP00188",
+      "packSize": "10 Tablets",
+      "price": 58
+    },
+    "category": "Diabetes & Cardiorenal Health",
+    "commonUses": "Type 2 diabetes with cardiovascular risk, heart failure",
+    "notes": "Massive savings of over ₹430 per strip.",
+    "davaIndia": {
+      "name": "Dava India Empagliflozin Tablet",
+      "productCode": "DI-TAB-102",
+      "packSize": "10 Tablets",
+      "price": 68.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 426.5,
+      "savingsPercent": 86
+    }
+  },
+  {
+    "id": "med-103",
+    "brandNames": [
+      "Januvia 100",
+      "Istavel 100",
+      "Sitaglyn 100"
+    ],
+    "genericMolecule": "Sitagliptin Phosphate",
+    "strength": "100 mg",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 540,
+    "janAushadhi": {
+      "name": "Sitagliptin Phosphate Tablets IP 100 mg",
+      "drugCode": "PMBJP00182",
+      "packSize": "15 Tablets",
+      "price": 65
+    },
+    "category": "Diabetes Care",
+    "commonUses": "Type 2 diabetes glycemic control without hypoglycemia",
+    "notes": "Save ₹475 per pack.",
+    "davaIndia": {
+      "name": "Dava India Sitagliptin Phosphate Tablet",
+      "productCode": "DI-TAB-103",
+      "packSize": "15 Tablets",
+      "price": 76.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 463.5,
+      "savingsPercent": 86
+    }
+  },
+  {
+    "id": "med-104",
+    "brandNames": [
+      "Galvus 50",
+      "Zomelis 50",
+      "Jalra 50"
+    ],
+    "genericMolecule": "Vildagliptin",
+    "strength": "50 mg",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 275,
+    "janAushadhi": {
+      "name": "Vildagliptin Tablets IP 50 mg",
+      "drugCode": "PMBJP00183",
+      "packSize": "15 Tablets",
+      "price": 38
+    },
+    "category": "Diabetes Care",
+    "commonUses": "Add-on therapy to metformin in type 2 diabetes",
+    "notes": "Potent incretin enhancer.",
+    "davaIndia": {
+      "name": "Dava India Vildagliptin Tablet",
+      "productCode": "DI-TAB-104",
+      "packSize": "15 Tablets",
+      "price": 45.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 229.5,
+      "savingsPercent": 83
+    }
+  },
+  {
+    "id": "med-105",
+    "brandNames": [
+      "Nexpro 40",
+      "Sompraz 40",
+      "Esomac 40"
+    ],
+    "genericMolecule": "Esomeprazole",
+    "strength": "40 mg",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 185,
+    "janAushadhi": {
+      "name": "Esomeprazole Gastro-resistant Tablets IP 40 mg",
+      "drugCode": "PMBJP00082",
+      "packSize": "15 Tablets",
+      "price": 26
+    },
+    "category": "Acid Reflux & GERD",
+    "commonUses": "Erosive esophagitis, severe acid reflux, Zollinger-Ellison syndrome",
+    "notes": "S-enantiomer of omeprazole.",
+    "davaIndia": {
+      "name": "Dava India Esomeprazole Tablet",
+      "productCode": "DI-TAB-105",
+      "packSize": "15 Tablets",
+      "price": 31,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 154,
+      "savingsPercent": 83
+    }
+  },
+  {
+    "id": "med-106",
+    "brandNames": [
+      "Nexpro D 40",
+      "Sompraz D 40",
+      "Esomac D"
+    ],
+    "genericMolecule": "Esomeprazole + Domperidone",
+    "strength": "40 mg + 30 mg SR",
+    "dosageForm": "Capsule",
+    "packSize": "15 Capsules",
+    "brandedMrp": 265,
+    "janAushadhi": {
+      "name": "Esomeprazole 40 mg + Domperidone 30 mg SR Capsules",
+      "drugCode": "PMBJP00083",
+      "packSize": "15 Capsules",
+      "price": 34
+    },
+    "category": "Acid Reflux & Nausea",
+    "commonUses": "Acid reflux accompanied by gas, bloating and morning nausea",
+    "notes": "Dual action PPI.",
+    "davaIndia": {
+      "name": "Dava India Esomeprazole + Domperidone Capsule",
+      "productCode": "DI-CAP-106",
+      "packSize": "15 Capsules",
+      "price": 41,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 224,
+      "savingsPercent": 85
+    }
+  },
+  {
+    "id": "med-107",
+    "brandNames": [
+      "Drotin DS",
+      "Drotikind 80"
+    ],
+    "genericMolecule": "Drotaverine Hydrochloride",
+    "strength": "80 mg",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 175,
+    "janAushadhi": {
+      "name": "Drotaverine Hydrochloride Tablets IP 80 mg",
+      "drugCode": "PMBJP00029",
+      "packSize": "15 Tablets",
+      "price": 24
+    },
+    "category": "Abdominal & Smooth Muscle Spasm",
+    "commonUses": "Renal colic, biliary colic, uterine cramps",
+    "notes": "Smooth muscle antispasmodic.",
+    "davaIndia": {
+      "name": "Dava India Drotaverine Hydrochloride Tablet",
+      "productCode": "DI-TAB-107",
+      "packSize": "15 Tablets",
+      "price": 29,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 146,
+      "savingsPercent": 83
+    }
+  },
+  {
+    "id": "med-108",
+    "brandNames": [
+      "Drotin M",
+      "Drotikind M"
+    ],
+    "genericMolecule": "Drotaverine + Mefenamic Acid",
+    "strength": "80 mg + 250 mg",
+    "dosageForm": "Tablet",
+    "packSize": "10 Tablets",
+    "brandedMrp": 145,
+    "janAushadhi": {
+      "name": "Drotaverine HCl 80 mg + Mefenamic Acid 250 mg Tablets",
+      "drugCode": "PMBJP00030",
+      "packSize": "10 Tablets",
+      "price": 22
+    },
+    "category": "Abdominal Spasm & Pain",
+    "commonUses": "Severe dysmenorrhea (period cramps), bowel colic spasms",
+    "notes": "Antispasmodic + anti-inflammatory combo.",
+    "davaIndia": {
+      "name": "Dava India Drotaverine + Mefenamic Acid Tablet",
+      "productCode": "DI-TAB-108",
+      "packSize": "10 Tablets",
+      "price": 26.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 118.5,
+      "savingsPercent": 82
+    }
+  },
+  {
+    "id": "med-109",
+    "brandNames": [
+      "Dulcolax 5",
+      "Gerbisa 5"
+    ],
+    "genericMolecule": "Bisacodyl",
+    "strength": "5 mg",
+    "dosageForm": "Tablet",
+    "packSize": "10 Tablets",
+    "brandedMrp": 15,
+    "janAushadhi": {
+      "name": "Bisacodyl Gastro-resistant Tablets IP 5 mg",
+      "drugCode": "PMBJP00452",
+      "packSize": "10 Tablets",
+      "price": 3.5
+    },
+    "category": "Laxative & Constipation",
+    "commonUses": "Acute constipation relief, pre-procedure bowel prep",
+    "notes": "Stimulant laxative.",
+    "davaIndia": {
+      "name": "Dava India Bisacodyl Tablet",
+      "productCode": "DI-TAB-109",
+      "packSize": "10 Tablets",
+      "price": 5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 10,
+      "savingsPercent": 67
+    }
+  },
+  {
+    "id": "med-110",
+    "brandNames": [
+      "Sinarest New",
+      "Wikoryl",
+      "Solvin Cold",
+      "Cheston Cold"
+    ],
+    "genericMolecule": "Paracetamol + Phenylephrine + Chlorpheniramine",
+    "strength": "500 mg + 10 mg + 2 mg",
+    "dosageForm": "Tablet",
+    "packSize": "10 Tablets",
+    "brandedMrp": 65,
+    "janAushadhi": {
+      "name": "Paracetamol + Phenylephrine + Chlorpheniramine Cold Tablets",
+      "drugCode": "PMBJP00282",
+      "packSize": "10 Tablets",
+      "price": 12
+    },
+    "category": "Cough & Cold Relief",
+    "commonUses": "Headache, blocked nose, sneezing, runny nose, and body fever",
+    "notes": "Classic common cold day & night tablet.",
+    "davaIndia": {
+      "name": "Dava India Paracetamol + Phenylephrine + Chlorpheniramine Tablet",
+      "productCode": "DI-TAB-110",
+      "packSize": "10 Tablets",
+      "price": 15,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 50,
+      "savingsPercent": 77
+    }
+  },
+  {
+    "id": "med-111",
+    "brandNames": [
+      "Atarax 25",
+      "Histantil 25"
+    ],
+    "genericMolecule": "Hydroxyzine Hydrochloride",
+    "strength": "25 mg",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 110,
+    "janAushadhi": {
+      "name": "Hydroxyzine Hydrochloride Tablets IP 25 mg",
+      "drugCode": "PMBJP00275",
+      "packSize": "15 Tablets",
+      "price": 16.5
+    },
+    "category": "Severe Allergy & Itching",
+    "commonUses": "Intense skin pruritus, allergic dermatitis, mild anxiety",
+    "notes": "First-generation antihistamine with antipruritic effect.",
+    "davaIndia": {
+      "name": "Dava India Hydroxyzine Hydrochloride Tablet",
+      "productCode": "DI-TAB-111",
+      "packSize": "15 Tablets",
+      "price": 20,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 90,
+      "savingsPercent": 82
+    }
+  },
+  {
+    "id": "med-112",
+    "brandNames": [
+      "Deriphyllin Retard 150",
+      "Deriphyllin 150"
+    ],
+    "genericMolecule": "Theophylline + Etophylline",
+    "strength": "150 mg Prolonged Release",
+    "dosageForm": "Tablet",
+    "packSize": "30 Tablets",
+    "brandedMrp": 48,
+    "janAushadhi": {
+      "name": "Theophylline and Etophylline Prolonged Release Tablets",
+      "drugCode": "PMBJP00295",
+      "packSize": "30 Tablets",
+      "price": 9.5
+    },
+    "category": "Asthma & COPD",
+    "commonUses": "Reversible airway obstruction, chronic bronchitis, asthma",
+    "notes": "Xanthine bronchodilator.",
+    "davaIndia": {
+      "name": "Dava India Theophylline + Etophylline Tablet",
+      "productCode": "DI-TAB-112",
+      "packSize": "30 Tablets",
+      "price": 12,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 36,
+      "savingsPercent": 75
+    }
+  },
+  {
+    "id": "med-113",
+    "brandNames": [
+      "Tugain 5%",
+      "Morr 5%",
+      "Mintop 5%"
+    ],
+    "genericMolecule": "Minoxidil Solution",
+    "strength": "5% w/v",
+    "dosageForm": "Topical Solution (60 ml)",
+    "packSize": "60 ml Bottle",
+    "brandedMrp": 780,
+    "janAushadhi": {
+      "name": "Minoxidil Topical Solution USP 5% w/v",
+      "drugCode": "PMBJP00535",
+      "packSize": "60 ml Bottle",
+      "price": 135
+    },
+    "category": "Hair Regrowth & Alopecia",
+    "commonUses": "Male and female pattern androgenetic hair loss",
+    "notes": "Huge savings of over ₹640 per bottle for long-term use.",
+    "davaIndia": {
+      "name": "Dava India Minoxidil Solution Topical Solution (60 ml)",
+      "productCode": "DI-TOP-113",
+      "packSize": "60 ml Bottle",
+      "price": 159.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 620.5,
+      "savingsPercent": 80
+    }
+  },
+  {
+    "id": "med-114",
+    "brandNames": [
+      "Finpecia 1",
+      "Propecia 1",
+      "Finax 1"
+    ],
+    "genericMolecule": "Finasteride",
+    "strength": "1 mg",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 210,
+    "janAushadhi": {
+      "name": "Finasteride Tablets IP 1 mg",
+      "drugCode": "PMBJP00536",
+      "packSize": "15 Tablets",
+      "price": 28
+    },
+    "category": "Hair Regrowth (Male Pattern Baldness)",
+    "commonUses": "DHT-blocker for male androgenetic alopecia",
+    "notes": "5-alpha reductase inhibitor.",
+    "davaIndia": {
+      "name": "Dava India Finasteride Tablet",
+      "productCode": "DI-TAB-114",
+      "packSize": "15 Tablets",
+      "price": 33.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 176.5,
+      "savingsPercent": 84
+    }
+  },
+  {
+    "id": "med-115",
+    "brandNames": [
+      "Benzac AC 2.5%",
+      "Persol 2.5%"
+    ],
+    "genericMolecule": "Benzoyl Peroxide Gel",
+    "strength": "2.5% w/w",
+    "dosageForm": "Gel (30 g)",
+    "packSize": "30 g Tube",
+    "brandedMrp": 185,
+    "janAushadhi": {
+      "name": "Benzoyl Peroxide Aqueous Gel IP 2.5% w/w",
+      "drugCode": "PMBJP00528",
+      "packSize": "30 g Tube",
+      "price": 32
+    },
+    "category": "Acne Care (Dermatology)",
+    "commonUses": "Inflammatory pimples, pustules, acne vulgaris",
+    "notes": "Keratolytic and antibacterial.",
+    "davaIndia": {
+      "name": "Dava India Benzoyl Peroxide Gel Gel (30 g)",
+      "productCode": "DI-GEL-115",
+      "packSize": "30 g Tube",
+      "price": 38.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 146.5,
+      "savingsPercent": 79
+    }
+  },
+  {
+    "id": "med-116",
+    "brandNames": [
+      "Vigamox 0.5%",
+      "Mahaflox 0.5%",
+      "Moxicip 0.5%"
+    ],
+    "genericMolecule": "Moxifloxacin Eye Drops",
+    "strength": "0.5% w/v",
+    "dosageForm": "Eye Drops (5 ml)",
+    "packSize": "5 ml Bottle",
+    "brandedMrp": 195,
+    "janAushadhi": {
+      "name": "Moxifloxacin Eye Drops IP 0.5% w/v",
+      "drugCode": "PMBJP00428",
+      "packSize": "5 ml Bottle",
+      "price": 26
+    },
+    "category": "Eye Care (Antibiotic)",
+    "commonUses": "Bacterial corneal ulcers, severe conjunctivitis, post-cataract care",
+    "notes": "4th generation fluoroquinolone eye drops.",
+    "davaIndia": {
+      "name": "Dava India Moxifloxacin Eye Drops Eye Drops (5 ml)",
+      "productCode": "DI-EYE-116",
+      "packSize": "5 ml Bottle",
+      "price": 31,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 164,
+      "savingsPercent": 84
+    }
+  },
+  {
+    "id": "med-117",
+    "brandNames": [
+      "Winolap 0.1%",
+      "Olopat 0.1%",
+      "Pataday"
+    ],
+    "genericMolecule": "Olopatadine Hydrochloride Eye Drops",
+    "strength": "0.1% w/v",
+    "dosageForm": "Eye Drops (5 ml)",
+    "packSize": "5 ml Bottle",
+    "brandedMrp": 175,
+    "janAushadhi": {
+      "name": "Olopatadine Hydrochloride Ophthalmic Solution IP 0.1%",
+      "drugCode": "PMBJP00430",
+      "packSize": "5 ml Bottle",
+      "price": 24
+    },
+    "category": "Eye Allergy (Itching & Redness)",
+    "commonUses": "Allergic conjunctivitis, itchy eyes, seasonal ocular allergies",
+    "notes": "Mast cell stabilizer & antihistamine.",
+    "davaIndia": {
+      "name": "Dava India Olopatadine Hydrochloride Eye Drops Eye Drops (5 ml)",
+      "productCode": "DI-EYE-117",
+      "packSize": "5 ml Bottle",
+      "price": 29,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 146,
+      "savingsPercent": 83
+    }
+  },
+  {
+    "id": "med-118",
+    "brandNames": [
+      "Zosert 50",
+      "Daxid 50",
+      "Sertima 50"
+    ],
+    "genericMolecule": "Sertraline Hydrochloride",
+    "strength": "50 mg",
+    "dosageForm": "Tablet",
+    "packSize": "15 Tablets",
+    "brandedMrp": 155,
+    "janAushadhi": {
+      "name": "Sertraline Tablets IP 50 mg",
+      "drugCode": "PMBJP00352",
+      "packSize": "15 Tablets",
+      "price": 22
+    },
+    "category": "Mental Health (Depression & OCD)",
+    "commonUses": "Major depressive disorder, OCD, social anxiety",
+    "notes": "SSRI antidepressant.",
+    "davaIndia": {
+      "name": "Dava India Sertraline Hydrochloride Tablet",
+      "productCode": "DI-TAB-118",
+      "packSize": "15 Tablets",
+      "price": 26.5,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 128.5,
+      "savingsPercent": 83
+    }
+  },
+  {
+    "id": "med-119",
+    "brandNames": [
+      "Flunil 20",
+      "Prodep 20"
+    ],
+    "genericMolecule": "Fluoxetine Hydrochloride",
+    "strength": "20 mg",
+    "dosageForm": "Capsule",
+    "packSize": "10 Capsules",
+    "brandedMrp": 62,
+    "janAushadhi": {
+      "name": "Fluoxetine Capsules IP 20 mg",
+      "drugCode": "PMBJP00354",
+      "packSize": "10 Capsules",
+      "price": 9.5
+    },
+    "category": "Mental Health (Depression & Bulimia)",
+    "commonUses": "Depression, panic disorder, premenstrual dysphoric disorder",
+    "notes": "Widely prescribed SSRI.",
+    "davaIndia": {
+      "name": "Dava India Fluoxetine Hydrochloride Capsule",
+      "productCode": "DI-CAP-119",
+      "packSize": "10 Capsules",
+      "price": 12,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 50,
+      "savingsPercent": 81
+    }
+  },
+  {
+    "id": "med-120",
+    "brandNames": [
+      "Tryptomer 10",
+      "Amitone 10"
+    ],
+    "genericMolecule": "Amitriptyline Hydrochloride",
+    "strength": "10 mg",
+    "dosageForm": "Tablet",
+    "packSize": "30 Tablets",
+    "brandedMrp": 68,
+    "janAushadhi": {
+      "name": "Amitriptyline Tablets IP 10 mg",
+      "drugCode": "PMBJP00360",
+      "packSize": "30 Tablets",
+      "price": 11
+    },
+    "category": "Neurology & Chronic Pain (Migraine)",
+    "commonUses": "Migraine prophylaxis, chronic tension headaches, neuropathic pain",
+    "notes": "Tricyclic antidepressant.",
+    "davaIndia": {
+      "name": "Dava India Amitriptyline Hydrochloride Tablet",
+      "productCode": "DI-TAB-120",
+      "packSize": "30 Tablets",
+      "price": 14,
+      "label": "Dava India Generic Pharmacy",
+      "savingsAmount": 54,
+      "savingsPercent": 79
+    }
+  }
+]
