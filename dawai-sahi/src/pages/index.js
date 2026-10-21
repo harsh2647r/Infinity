@@ -23,8 +23,9 @@ import {
 } from "lucide-react";
 import PrescriptionBasket from "../components/PrescriptionBasket";
 import PrintSlipModal from "../components/PrintSlipModal";
+import dynamic from "next/dynamic";
 import KendraLocator from "../components/KendraLocator";
-import OcrScannerModal from "../components/OcrScannerModal";
+const OcrScannerModal = dynamic(() => import("../components/OcrScannerModal"), { ssr: false });
 import MedicalDisclaimer from "../components/MedicalDisclaimer";
 import medicinesDb from "../data/medicines-db.json";
 import { searchMedicines } from "../lib/fuzzySearch";
